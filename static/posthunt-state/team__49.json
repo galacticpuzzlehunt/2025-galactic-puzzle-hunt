@@ -1,0 +1,34 @@
+{
+  "displayName": "Broken Umbrella",
+  "rounds": {},
+  "puzzles": {
+    "intro": {
+      "type": "story",
+      "puzName": "intro",
+      "slug": "hey_you_youre_finally_awake",
+      "displayName": "Hey, You. You're Finally Awake.",
+      "allowRotation": true,
+      "roundId": "intro",
+      "isNew": true,
+      "unlockTime": 1755833756080,
+      "cutsceneImages": [
+        "blank",
+        "intro-black",
+        "intro-opening-eyes",
+        "pan-1",
+        "pan-embarrassed",
+        "pan-2",
+        "pan-thinking"
+      ],
+      "noCannedHints": true
+    }
+  },
+  "huntStartTime": 1755901680000,
+  "huntEndTime": 1757370480000,
+  "finishedData": {
+    "numSolveCountPuzzles": 50,
+    "numCustomPuzzles": 0
+  },
+  "cutsceneChoices": {},
+  "lockedSolutions": {}
+}

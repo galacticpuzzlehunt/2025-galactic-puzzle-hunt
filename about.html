@@ -1,0 +1,152 @@
+
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="format-detection" content="telephone=no">
+    <title>Galactic Puzzle Hunt</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, interactive-widget=resizes-content">
+    <meta name="darkreader-lock">
+    <meta property="og:title" content="Galactic Puzzle Hunt 2025">
+    <meta property="og:description" content="Piece together what's happening in the world around you. Register now!">
+    <meta property="og:image" content="https://2025.galacticpuzzlehunt.com/static/images/banner.png">
+    <meta property="twitter:card" content="summary_large_image">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=LXGW+WenKai+Mono+TC:wght@400;700&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Playpen+Sans:wght@100..800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Emoji&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/base.css">
+    <link rel="stylesheet" href="/static/puzzlejs/puzzlejs.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <script src="/static/js/jquery.formset.js"></script>
+    <script src="/static/js/tray.js"></script>
+    <script src="/static/js/time.js"></script>
+    <script src="/static/js/copyjack.js"></script>
+    <link rel="icon" href="/static/images/favicon.ico" sizes="32x32">
+    <link rel="icon" href="/static/images/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/static/images/apple-touch-icon.png">
+    <link rel="manifest" href="/static/manifest.webmanifest">
+    
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y1N52VY61R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y1N52VY61R', {cookie_flags: 'secure;samesite=none'});
+</script>
+
+</head>
+<body>
+    <nav id="slide-nav">
+        <div id="slide-nav-contents">
+            
+                
+                
+            
+            <div class="site-nav">
+            
+                <hr>
+                <a href="/">Home</a>
+                <a href="/about">About</a>
+                
+                <a href="/puzzles">Puzzles</a>
+                
+                <a href="/teams">Teams</a>
+                <a href="https://galacticpuzzlehunt.com/archive">Archive</a>
+                <a href="/wrapup">Wrap-Up</a>
+            
+            </div>
+            
+        </div>
+        <button type="button" id="menu-btn" aria-label="Open navigation" aria-controls="site-nav" aria-expanded="false">
+            <div></div>
+        </button>
+    </nav>
+    <script>
+        function showNotify(data) {
+            const {title, text, link} = JSON.parse(data);
+            toastr.info(text, title, {
+                timeOut: 30000, extendedTimeOut: 30000, closeButton: true,
+                onclick: () => window.open(link, '_blank'),
+            });
+        }
+        
+    </script>
+    
+    <div class="top-more-actions"></div>
+    <div class="content">
+
+<h1>About</h1>
+
+<main>
+    <div class="no-break">
+        <h4 id="Format">What are the rules?</h4>
+        <ul>
+            
+            
+            <li>The puzzlehunt starts on <strong><time datetime="2025-08-22T18:28:00-04:00" data-format="l, F j, Y \a\t g:i A T">Friday, August 22, 2025 at 6:28 PM EDT</time></strong> and ends on <strong><time datetime="2025-09-08T18:28:00-04:00" data-format="l, F j, Y \a\t g:i A T">Monday, September 8, 2025 at 6:28 PM EDT</time></strong>. 
+            
+            However, we will leave the website running until <strong><time datetime="2025-10-08T18:28:00-04:00" data-format="l, F j, Y \a\t g:i A T">Wednesday, October 8, 2025 at 6:28 PM EDT</time></strong> so teams can still submit answers and go through the hunt at their own pace.
+            </li>
+            <li>Teams have a maximum size of 10, though we believe a size of 6 to 8 will offer the best experience. If you would like to include additional inexperienced puzzlers on your team, please <a href="mailto:contact@galacticpuzzlehunt.com">email us</a> and we&rsquo;ll consider your request.</li>
+            <li>We reserve the right to disqualify any team for unsportsmanlike conduct.</li>
+            <li>If you have any questions about the hunt, or if you want to contact us for any reason, email <a href="mailto:contact@galacticpuzzlehunt.com">contact@galacticpuzzlehunt.com</a>. We will get back to you as soon as we can.</li>
+            <li>The answer to at most one puzzle in the hunt is <tt>FAIR PLAY</tt>.</li>
+        </ul>
+    </div>
+    <div class="no-break">
+        <h4>What is a puzzlehunt?</h4>
+        <p>In a puzzlehunt, each puzzle has an underlying pattern or insight, which you need to figure out (somewhat like the <a href="https://en.wikipedia.org/wiki/Crossword#Themes">theme</a> of a crossword puzzle). Puzzles can come in many different forms; the only real commonality is that you usually receive no direct instructions, so it&rsquo;s up to you to figure out how to make sense of the information you&rsquo;re given. You can read a longer introduction to puzzlehunts <a href="https://blog.vero.site/post/puzzlehunts" target="_blank">here</a>.</p>
+        <p>If you are new to puzzles and are interested in seeing some examples, or if you&rsquo;re looking for some practice, we recommend looking at <a target="_blank" href="https://galacticpuzzlehunt.com/archive">previous Galactic Puzzle Hunts</a> or puzzles from other online hunts such as <a target="_blank" href ="https://teammatehunt.com/">Teammate Hunt</a>, <a target="_blank" href="https://puzzlepotluck.com/">Puzzle Potluck</a>, or <a target="_blank" href="https://reddothunt.sg/2018">REDDOThunt</a>.</p>
+    </div>
+    <div class="no-break">
+        <h4 id="Format">What is and isn’t allowed?</h4>
+        <ul>
+            <li><b>You may not view source code, dump network packets, scrape, hack, or otherwise interact with the website in any unintended way.</b> If you’re not sure whether something is intended, email <a href="mailto:contact@galacticpuzzlehunt.com">contact@galacticpuzzlehunt.com</a>.</li>
+            <li>You may not ask an LLM or other generative AI to solve a puzzle or a significant part of one. Treat this like our previous rule about not looking at source code: it bypasses our intended solving experience and goes against the spirit of the hunt. More limited uses, such as doing research into a topic you’re unfamiliar with, or interpreting an individual crossword clue you’re stuck on, are left to your discretion. We urge you to treat LLMs as tools and to use them only to the extent that they make the hunt more enjoyable for you.</li>
+            <li>You may use any other external sources for help, including other people, as long as they aren’t helping other teams and aren’t actively participating in the hunt.</li>
+            <li>You may not stream or post spoilers for the hunt in a place where other teams might see them.</li>
+            <li>You may not create multiple accounts or be on multiple teams.</li>
+        </ul>
+    </div>
+    <div class="no-break">
+        <h4 id="Format">What is the format of this hunt?</h4>
+        <p>Like in previous GPHs, solving puzzles helps you unlock more puzzles as you progress through the hunt. Starting on the first day and continuing throughout the hunt, teams will receive hints that they can use on puzzles. These may be something like a nudge in the right direction (e.g. “use Morse code”) or an answer to your question (e.g. “which answers to these clues are wrong?”).</p>
+        <p>Generally, you will have 20 total guesses for each puzzle. If you legitimately run out of guesses and need more, feel free to contact us, though we won’t grant your request if we see that you were, for example, guessing random thematic answers, or brute-forcing all 10-letter words thematic to the puzzle title.</p>
+    </div>
+    <div class="no-break">
+        <h4 id="Format">Why did the team size limit and the length of the hunt increase?</h4>
+        <p>The hunt is slightly longer and more difficult than we originally anticipated. While teams of 6 will still get the intended experience of the hunt, and should still be able to finish the hunt within the original 10 day timeframe, we want to offer the possibility of a larger team size as well as more time for those that wish to have the option.</p>
+    </div>
+    <div class="no-break">
+        <h4 id="Format">How many puzzles will there be? What will they look like?</h4>
+        <p>At most 50. The puzzles in this hunt will be noticeably longer and more difficult than in 2023 and 2024, and are comparable to puzzles in the GPHs before that.</p>
+    </div>
+    <div class="no-break">
+        <h4 id="Format">What happens when the hunt ends?</h4>
+        
+        
+        <p>When the hunt ends on <time datetime="2025-09-08T18:28:00-04:00" data-format="l, F j, Y">Monday, September 8, 2025</time>, the scoreboard will be frozen, and a wrap-up will be available several days later. However, if you have not finished and still want to experience the whole hunt, you’ll still be able to register new teams, solve puzzles on the website, and progress through the hunt until <time datetime="2025-10-08T18:28:00-04:00" data-format="l, F j, Y">Wednesday, October 8, 2025</time>. The only difference is that you won’t be able to use hints after the hunt ends.</p>
+        <p>After <time datetime="2025-10-08T18:28:00-04:00" data-format="l, F j, Y">Wednesday, October 8, 2025</time>, you’ll still be able to do the puzzles and check your answers spoiler-free.</p>
+    </div>
+    <div class="no-break">
+        <h4 id="Format">Is there a tip jar?</h4>
+        <p>If you’d like to support the Galactic Puzzle Hunt, you can donate <a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=L4CVDVR3VTLZJ">here</a>.</p>
+    </div>
+    <div class="no-break">
+        <h4 id="Format">Can I use content from GPH puzzles?</h4>
+        <p>See our <a target="_blank" href="/datapolicy">Data Use Policy</a>.</p>
+    </div>
+</main>
+
+</div>
+    
+    
+</body>
+</html>

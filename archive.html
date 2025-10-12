@@ -1,0 +1,105 @@
+
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="format-detection" content="telephone=no">
+    <title>Galactic Puzzle Hunt</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, interactive-widget=resizes-content">
+    <meta name="darkreader-lock">
+    <meta property="og:title" content="Galactic Puzzle Hunt 2025">
+    <meta property="og:description" content="Piece together what's happening in the world around you. Register now!">
+    <meta property="og:image" content="https://2025.galacticpuzzlehunt.com/static/images/banner.png">
+    <meta property="twitter:card" content="summary_large_image">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=LXGW+WenKai+Mono+TC:wght@400;700&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Playpen+Sans:wght@100..800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Emoji&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/base.css">
+    <link rel="stylesheet" href="/static/puzzlejs/puzzlejs.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <script src="/static/js/jquery.formset.js"></script>
+    <script src="/static/js/tray.js"></script>
+    <script src="/static/js/time.js"></script>
+    <script src="/static/js/copyjack.js"></script>
+    <link rel="icon" href="/static/images/favicon.ico" sizes="32x32">
+    <link rel="icon" href="/static/images/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/static/images/apple-touch-icon.png">
+    <link rel="manifest" href="/static/manifest.webmanifest">
+    
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y1N52VY61R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y1N52VY61R', {cookie_flags: 'secure;samesite=none'});
+</script>
+
+</head>
+<body>
+    <nav id="slide-nav">
+        <div id="slide-nav-contents">
+            
+                
+                
+            
+            <div class="site-nav">
+            
+                <hr>
+                <a href="/">Home</a>
+                <a href="/about">About</a>
+                
+                <a href="/puzzles">Puzzles</a>
+                
+                <a href="/teams">Teams</a>
+                <a href="https://galacticpuzzlehunt.com/archive">Archive</a>
+                <a href="/wrapup">Wrap-Up</a>
+            
+            </div>
+            
+        </div>
+        <button type="button" id="menu-btn" aria-label="Open navigation" aria-controls="site-nav" aria-expanded="false">
+            <div></div>
+        </button>
+    </nav>
+    <script>
+        function showNotify(data) {
+            const {title, text, link} = JSON.parse(data);
+            toastr.info(text, title, {
+                timeOut: 30000, extendedTimeOut: 30000, closeButton: true,
+                onclick: () => window.open(link, '_blank'),
+            });
+        }
+        
+    </script>
+    
+    <div class="top-more-actions"></div>
+    <div class="content">
+
+<h1>Hunt Archive</h1>
+
+<main>
+    <ul>
+        <li>Galactic Puzzle Hunt 2025: <b>Terraforming</b></li>
+        <li>Galactic Puzzle Hunt 2024: <a href="https://2024.galacticpuzzlehunt.com">Stargazing</a></li>
+        <li>Galactic Puzzle Hunt 2023: <a href="https://2023.galacticpuzzlehunt.com">GalactiCardCaptors</a></li>
+        <li>Galactic Puzzle Hunt 2022: <a href="https://2022.galacticpuzzlehunt.com">The Exam</a></li>
+        <li>Galactic Puzzle Hunt 2021: <a href="https://2021.galacticpuzzlehunt.com">???</a></li>
+        <li>Galactic Puzzle Hunt 2020: <a href="https://2020.galacticpuzzlehunt.com">20/20 Vision</a></li>
+        <li>Galactic Puzzle Hunt 2019: <a href="https://2019.galacticpuzzlehunt.com">The Galactic Artifact</a></li>
+        <li>Galactic Puzzle Hunt 2018: <a href="https://2018.galacticpuzzlehunt.com">The Great Galactic Bake Off</a></li>
+        <li>Galactic Puzzle Hunt 2017: <a href="https://2017.galacticpuzzlehunt.com">Puzzleball Championships</a></li>
+    </ul>
+</main>
+
+</div>
+    
+    
+</body>
+</html>

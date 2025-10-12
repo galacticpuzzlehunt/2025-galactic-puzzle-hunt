@@ -1,0 +1,7279 @@
+{
+  "1": {
+    "teamId": "1",
+    "displayName": "Admin",
+    "numSolves": 50,
+    "lastSolveTime": 1755985117810,
+    "completionTime": 1755836160812,
+    "isHidden": true
+  },
+  "2": {
+    "teamId": "2",
+    "displayName": "Speculative Execution",
+    "numSolves": 13,
+    "lastSolveTime": 1757028271499
+  },
+  "3": {
+    "teamId": "3",
+    "displayName": "Celestial <Catellite>",
+    "numSolves": 48,
+    "lastSolveTime": 1756486310747,
+    "completionTime": 1756474784447
+  },
+  "4": {
+    "teamId": "4",
+    "displayName": "Oozy Rat in a Sanitary Zoo",
+    "numSolves": 1,
+    "lastSolveTime": 1756352476110
+  },
+  "5": {
+    "teamId": "5",
+    "displayName": "🥦Broccoli Brawlers🥦",
+    "numSolves": 49,
+    "lastSolveTime": 1757361735647,
+    "completionTime": 1757349370946
+  },
+  "6": {
+    "teamId": "6",
+    "displayName": "At Most 50",
+    "numSolves": 2,
+    "lastSolveTime": 1756274866781
+  },
+  "7": {
+    "teamId": "7",
+    "displayName": "Primordial Clue",
+    "numSolves": 22,
+    "lastSolveTime": 1757358267568
+  },
+  "8": {
+    "teamId": "8",
+    "displayName": "Counted Double Yakuman",
+    "numSolves": 46,
+    "lastSolveTime": 1756955671752,
+    "completionTime": 1756954998915
+  },
+  "9": {
+    "teamId": "9",
+    "displayName": "Thread Waffle House",
+    "numSolves": 20,
+    "lastSolveTime": 1757344796655
+  },
+  "10": {
+    "teamId": "10",
+    "displayName": "Schrodinger's curiosity killed the cat",
+    "numSolves": 2,
+    "lastSolveTime": 1756732977856
+  },
+  "11": {
+    "teamId": "11",
+    "displayName": "Tactical Yutnori",
+    "numSolves": 14,
+    "lastSolveTime": 1757164040519
+  },
+  "12": {
+    "teamId": "12",
+    "displayName": "cook",
+    "numSolves": 2,
+    "lastSolveTime": 1756063433467
+  },
+  "13": {
+    "teamId": "13",
+    "displayName": "natoptishi",
+    "numSolves": 15,
+    "lastSolveTime": 1757199840358
+  },
+  "14": {
+    "teamId": "14",
+    "displayName": "puzzlewuzzle",
+    "numSolves": 4,
+    "lastSolveTime": 1756262423590
+  },
+  "15": {
+    "teamId": "15",
+    "displayName": "lowkey",
+    "numSolves": 0
+  },
+  "16": {
+    "teamId": "16",
+    "displayName": "Vim",
+    "numSolves": 10,
+    "lastSolveTime": 1756355565884
+  },
+  "17": {
+    "teamId": "17",
+    "displayName": "Team 3734",
+    "numSolves": 4,
+    "lastSolveTime": 1756148370524
+  },
+  "18": {
+    "teamId": "18",
+    "displayName": "PuzzleHeinz",
+    "numSolves": 11,
+    "lastSolveTime": 1756158575749
+  },
+  "19": {
+    "teamId": "19",
+    "displayName": "☃",
+    "numSolves": 22,
+    "lastSolveTime": 1756763453261
+  },
+  "20": {
+    "teamId": "20",
+    "displayName": "barbara kingsolver",
+    "numSolves": 46,
+    "lastSolveTime": 1756842367478,
+    "completionTime": 1756842118039
+  },
+  "21": {
+    "teamId": "21",
+    "displayName": "Scenic Travelers",
+    "numSolves": 50,
+    "lastSolveTime": 1757295607320,
+    "completionTime": 1756528570138
+  },
+  "22": {
+    "teamId": "22",
+    "displayName": "Fuzzy Bunnies",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "23": {
+    "teamId": "23",
+    "displayName": "Amateur Hour",
+    "numSolves": 48,
+    "lastSolveTime": 1757316794634,
+    "completionTime": 1757314652203
+  },
+  "24": {
+    "teamId": "24",
+    "displayName": "Broken Binary",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "25": {
+    "teamId": "25",
+    "displayName": "TheYonZone",
+    "numSolves": 0
+  },
+  "26": {
+    "teamId": "26",
+    "displayName": "🫡 Saluter's Cryoturbation",
+    "numSolves": 0
+  },
+  "27": {
+    "teamId": "27",
+    "displayName": "Quarks and Gluons",
+    "numSolves": 14,
+    "lastSolveTime": 1756420129028
+  },
+  "28": {
+    "teamId": "28",
+    "displayName": "The Funky Town Monkey Pimps",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "29": {
+    "teamId": "29",
+    "displayName": "macOS High Sierra",
+    "numSolves": 42,
+    "lastSolveTime": 1757358148813,
+    "completionTime": 1757358043146
+  },
+  "30": {
+    "teamId": "30",
+    "displayName": "Time Vultures",
+    "numSolves": 50,
+    "lastSolveTime": 1757258936383,
+    "completionTime": 1757258033835
+  },
+  "31": {
+    "teamId": "31",
+    "displayName": "FloorOfLava",
+    "numSolves": 13,
+    "lastSolveTime": 1756639352377
+  },
+  "32": {
+    "teamId": "32",
+    "displayName": "C4rnellian",
+    "numSolves": 4,
+    "lastSolveTime": 1756183147809
+  },
+  "33": {
+    "teamId": "33",
+    "displayName": "lorum ipsum",
+    "numSolves": 30,
+    "lastSolveTime": 1756753538933
+  },
+  "34": {
+    "teamId": "34",
+    "displayName": "the real puzzles were the friends we made along the way",
+    "numSolves": 48,
+    "lastSolveTime": 1757314018993,
+    "completionTime": 1757223488956
+  },
+  "35": {
+    "teamId": "35",
+    "displayName": "The Spaceteam",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "36": {
+    "teamId": "36",
+    "displayName": "Tetacetera",
+    "numSolves": 33,
+    "lastSolveTime": 1757289890342
+  },
+  "37": {
+    "teamId": "37",
+    "displayName": "orz",
+    "numSolves": 2,
+    "lastSolveTime": 1755987892788
+  },
+  "38": {
+    "teamId": "38",
+    "displayName": "The Wombats",
+    "numSolves": 14,
+    "lastSolveTime": 1756184861555
+  },
+  "39": {
+    "teamId": "39",
+    "displayName": "Pinniped Party",
+    "numSolves": 10,
+    "lastSolveTime": 1757282426639
+  },
+  "40": {
+    "teamId": "40",
+    "displayName": "💜 Team Rebellion 💜",
+    "numSolves": 14,
+    "lastSolveTime": 1757020033358
+  },
+  "42": {
+    "teamId": "42",
+    "displayName": "Eggplant Parms",
+    "numSolves": 48,
+    "lastSolveTime": 1756075109661,
+    "completionTime": 1756074814506
+  },
+  "43": {
+    "teamId": "43",
+    "displayName": "Luigi's Death Stare",
+    "numSolves": 33,
+    "lastSolveTime": 1756868929438
+  },
+  "44": {
+    "teamId": "44",
+    "displayName": "Les Gaulois",
+    "numSolves": 50,
+    "lastSolveTime": 1756882738461,
+    "completionTime": 1756871529462
+  },
+  "45": {
+    "teamId": "45",
+    "displayName": "hootligans",
+    "numSolves": 12,
+    "lastSolveTime": 1756782284895
+  },
+  "46": {
+    "teamId": "46",
+    "displayName": "Lala",
+    "numSolves": 10,
+    "lastSolveTime": 1756540810472
+  },
+  "47": {
+    "teamId": "47",
+    "displayName": "anjhinz",
+    "numSolves": 10,
+    "lastSolveTime": 1756923746568
+  },
+  "48": {
+    "teamId": "48",
+    "displayName": "Sesame 🐈",
+    "numSolves": 2,
+    "lastSolveTime": 1755965961418
+  },
+  "49": {
+    "teamId": "49",
+    "displayName": "Broken Umbrella",
+    "numSolves": 0
+  },
+  "50": {
+    "teamId": "50",
+    "displayName": "🥟🥟🥟 广东街头潮流Trendsetter 🥟🥟🥟",
+    "numSolves": 50,
+    "lastSolveTime": 1756432622423,
+    "completionTime": 1756432291298
+  },
+  "51": {
+    "teamId": "51",
+    "displayName": "Amptersand",
+    "numSolves": 2,
+    "lastSolveTime": 1756063482580
+  },
+  "52": {
+    "teamId": "52",
+    "displayName": "Not Fast, Just Furious",
+    "numSolves": 9,
+    "lastSolveTime": 1756703143242
+  },
+  "53": {
+    "teamId": "53",
+    "displayName": "Wolstenholme's Martinis",
+    "numSolves": 8,
+    "lastSolveTime": 1756478987968
+  },
+  "54": {
+    "teamId": "54",
+    "displayName": "Just Us",
+    "numSolves": 5,
+    "lastSolveTime": 1756607443617
+  },
+  "55": {
+    "teamId": "55",
+    "displayName": "Livin' Covida Loca",
+    "numSolves": 18,
+    "lastSolveTime": 1757348472014
+  },
+  "56": {
+    "teamId": "56",
+    "displayName": "Bosch’s Ship of Fools",
+    "numSolves": 36,
+    "lastSolveTime": 1757310021616
+  },
+  "57": {
+    "teamId": "57",
+    "displayName": "come back to us later",
+    "numSolves": 47,
+    "lastSolveTime": 1757222514079,
+    "completionTime": 1757216184136
+  },
+  "58": {
+    "teamId": "58",
+    "displayName": "[Redacted]",
+    "numSolves": 0
+  },
+  "59": {
+    "teamId": "59",
+    "displayName": "!",
+    "numSolves": 11,
+    "lastSolveTime": 1757131436536
+  },
+  "60": {
+    "teamId": "60",
+    "displayName": "JackIsDaBomb",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "61": {
+    "teamId": "61",
+    "displayName": "BMFC",
+    "numSolves": 4,
+    "lastSolveTime": 1756608093344
+  },
+  "62": {
+    "teamId": "62",
+    "displayName": "Burritos",
+    "numSolves": 0
+  },
+  "63": {
+    "teamId": "63",
+    "displayName": "Puzzles are trans culture 🏳️‍⚧️",
+    "numSolves": 9,
+    "lastSolveTime": 1756828660767
+  },
+  "64": {
+    "teamId": "64",
+    "displayName": "MLF",
+    "numSolves": 1,
+    "lastSolveTime": 1756182537083
+  },
+  "65": {
+    "teamId": "65",
+    "displayName": "Anita",
+    "numSolves": 1,
+    "lastSolveTime": 1756106695771
+  },
+  "66": {
+    "teamId": "66",
+    "displayName": "Who Let The Gods Out",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "67": {
+    "teamId": "67",
+    "displayName": "teamtoby",
+    "numSolves": 1,
+    "lastSolveTime": 1756158624088
+  },
+  "68": {
+    "teamId": "68",
+    "displayName": "astronomers = dirt lickers",
+    "numSolves": 8,
+    "lastSolveTime": 1756042137910
+  },
+  "69": {
+    "teamId": "69",
+    "displayName": "Fishing in Alabama",
+    "numSolves": 13,
+    "lastSolveTime": 1757200028729
+  },
+  "70": {
+    "teamId": "70",
+    "displayName": "meowmeow",
+    "numSolves": 2,
+    "lastSolveTime": 1756651400496
+  },
+  "71": {
+    "teamId": "71",
+    "displayName": "Half the Battle",
+    "numSolves": 3,
+    "lastSolveTime": 1756255694357
+  },
+  "72": {
+    "teamId": "72",
+    "displayName": "PaddingtonsPuzzlers",
+    "numSolves": 0
+  },
+  "73": {
+    "teamId": "73",
+    "displayName": "crunchy ice",
+    "numSolves": 7,
+    "lastSolveTime": 1756738842089
+  },
+  "74": {
+    "teamId": "74",
+    "displayName": "Emleeb",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "75": {
+    "teamId": "75",
+    "displayName": "Our Mohs Scale Goes to 11",
+    "numSolves": 2,
+    "lastSolveTime": 1755993510286
+  },
+  "76": {
+    "teamId": "76",
+    "displayName": "Planet Express",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "77": {
+    "teamId": "77",
+    "displayName": "DP Potluck",
+    "numSolves": 11,
+    "lastSolveTime": 1756489977752
+  },
+  "78": {
+    "teamId": "78",
+    "displayName": "The Natural 20s",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "79": {
+    "teamId": "79",
+    "displayName": "Dead Yodas Society",
+    "numSolves": 10,
+    "lastSolveTime": 1756756477961
+  },
+  "80": {
+    "teamId": "80",
+    "displayName": "ghostbloods",
+    "numSolves": 49,
+    "lastSolveTime": 1756617905633,
+    "completionTime": 1756434158478
+  },
+  "81": {
+    "teamId": "81",
+    "displayName": "Animated Ammenate",
+    "numSolves": 8,
+    "lastSolveTime": 1757303424947
+  },
+  "82": {
+    "teamId": "82",
+    "displayName": "Aurora borealis? At this time of year? At this time of day? In this part of the country? Localized entirely within your newly-formed planet?",
+    "numSolves": 6,
+    "lastSolveTime": 1757144660833
+  },
+  "83": {
+    "teamId": "83",
+    "displayName": "Consumer Recreation Services",
+    "numSolves": 12,
+    "lastSolveTime": 1756745297019
+  },
+  "84": {
+    "teamId": "84",
+    "displayName": "Critical Space Item",
+    "numSolves": 16,
+    "lastSolveTime": 1757366784096
+  },
+  "85": {
+    "teamId": "85",
+    "displayName": "OnlyDisconnect",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "86": {
+    "teamId": "86",
+    "displayName": "Just-Us League / Mobius Strippers",
+    "numSolves": 47,
+    "lastSolveTime": 1757287625724,
+    "completionTime": 1757282969210
+  },
+  "87": {
+    "teamId": "87",
+    "displayName": "Φameter",
+    "numSolves": 3,
+    "lastSolveTime": 1756525107270
+  },
+  "88": {
+    "teamId": "88",
+    "displayName": "Donkey",
+    "numSolves": 1,
+    "lastSolveTime": 1756384639614
+  },
+  "89": {
+    "teamId": "89",
+    "displayName": "Big Red",
+    "numSolves": 0
+  },
+  "90": {
+    "teamId": "90",
+    "displayName": "Hastings",
+    "numSolves": 0
+  },
+  "91": {
+    "teamId": "91",
+    "displayName": "calvin zhang fanclub",
+    "numSolves": 3,
+    "lastSolveTime": 1756045701352
+  },
+  "92": {
+    "teamId": "92",
+    "displayName": "RSVPuzzle",
+    "numSolves": 23,
+    "lastSolveTime": 1757301549586
+  },
+  "93": {
+    "teamId": "93",
+    "displayName": "bnc",
+    "numSolves": 2,
+    "lastSolveTime": 1755925250563
+  },
+  "94": {
+    "teamId": "94",
+    "displayName": "Dents",
+    "numSolves": 0
+  },
+  "95": {
+    "teamId": "95",
+    "displayName": "puzzle pasta 🧩 🍝",
+    "numSolves": 1,
+    "lastSolveTime": 1756431092579
+  },
+  "96": {
+    "teamId": "96",
+    "displayName": "给猫铲屎去了",
+    "numSolves": 47,
+    "lastSolveTime": 1757366601777,
+    "completionTime": 1757360787903
+  },
+  "97": {
+    "teamId": "97",
+    "displayName": "Pristine Metropolitans",
+    "numSolves": 19,
+    "lastSolveTime": 1757366923264
+  },
+  "98": {
+    "teamId": "98",
+    "displayName": "Team_202",
+    "numSolves": 1,
+    "lastSolveTime": 1756045361144
+  },
+  "99": {
+    "teamId": "99",
+    "displayName": "misaka mine",
+    "numSolves": 2,
+    "lastSolveTime": 1755944716133
+  },
+  "100": {
+    "teamId": "100",
+    "displayName": "Here Goes Team Puzzlehugga Registering Again!",
+    "numSolves": 22,
+    "lastSolveTime": 1756670494272
+  },
+  "101": {
+    "teamId": "101",
+    "displayName": "LucHumphrey",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "102": {
+    "teamId": "102",
+    "displayName": "Abysmal Chunks",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "103": {
+    "teamId": "103",
+    "displayName": "The Right Janja",
+    "numSolves": 0
+  },
+  "104": {
+    "teamId": "104",
+    "displayName": "PartHima",
+    "numSolves": 1,
+    "lastSolveTime": 1756757308035
+  },
+  "105": {
+    "teamId": "105",
+    "displayName": "The High+ Schoolers",
+    "numSolves": 6,
+    "lastSolveTime": 1757286827581
+  },
+  "106": {
+    "teamId": "106",
+    "displayName": "kwargers",
+    "numSolves": 15,
+    "lastSolveTime": 1756614135292
+  },
+  "107": {
+    "teamId": "107",
+    "displayName": "Hee-ho",
+    "numSolves": 50,
+    "lastSolveTime": 1756861564824,
+    "completionTime": 1756444593388
+  },
+  "108": {
+    "teamId": "108",
+    "displayName": "Annie",
+    "numSolves": 0
+  },
+  "109": {
+    "teamId": "109",
+    "displayName": "Large Team the Size of a Small Team",
+    "numSolves": 4,
+    "lastSolveTime": 1756219888049
+  },
+  "110": {
+    "teamId": "110",
+    "displayName": "Casuals",
+    "numSolves": 10,
+    "lastSolveTime": 1756698545986
+  },
+  "111": {
+    "teamId": "111",
+    "displayName": "Special Task Force: Unicorn",
+    "numSolves": 1,
+    "lastSolveTime": 1756485534622
+  },
+  "112": {
+    "teamId": "112",
+    "displayName": "Spice Goblins",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "113": {
+    "teamId": "113",
+    "displayName": "biorawr",
+    "numSolves": 1,
+    "lastSolveTime": 1757364787408
+  },
+  "114": {
+    "teamId": "114",
+    "displayName": "Sloopertroop",
+    "numSolves": 25,
+    "lastSolveTime": 1757206517364
+  },
+  "115": {
+    "teamId": "115",
+    "displayName": "Team Mudae",
+    "numSolves": 12,
+    "lastSolveTime": 1756491100922
+  },
+  "116": {
+    "teamId": "116",
+    "displayName": "Big Butt Company",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "117": {
+    "teamId": "117",
+    "displayName": "bucket of huntere",
+    "numSolves": 46,
+    "lastSolveTime": 1756991847098,
+    "completionTime": 1756979396635
+  },
+  "118": {
+    "teamId": "118",
+    "displayName": "Lil Stoop",
+    "numSolves": 2,
+    "lastSolveTime": 1756654145376
+  },
+  "119": {
+    "teamId": "119",
+    "displayName": "GodThat'sBrilliant",
+    "numSolves": 8,
+    "lastSolveTime": 1756229269826
+  },
+  "120": {
+    "teamId": "120",
+    "displayName": "NoSolves",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "121": {
+    "teamId": "121",
+    "displayName": "Puzzy Solvers",
+    "numSolves": 11,
+    "lastSolveTime": 1756704505236
+  },
+  "122": {
+    "teamId": "122",
+    "displayName": "The Dearests",
+    "numSolves": 1,
+    "lastSolveTime": 1756497345381
+  },
+  "123": {
+    "teamId": "123",
+    "displayName": "A Handmade Europa Clipper",
+    "numSolves": 43,
+    "lastSolveTime": 1757181672453,
+    "completionTime": 1757176885471
+  },
+  "124": {
+    "teamId": "124",
+    "displayName": "Peadar",
+    "numSolves": 1,
+    "lastSolveTime": 1756200155787
+  },
+  "125": {
+    "teamId": "125",
+    "displayName": "Frenchuziches Everywhere!",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "126": {
+    "teamId": "126",
+    "displayName": "Furious Acorns",
+    "numSolves": 23,
+    "lastSolveTime": 1756648288393
+  },
+  "127": {
+    "teamId": "127",
+    "displayName": "ants 🐜🐜🐜",
+    "numSolves": 4,
+    "lastSolveTime": 1756020849724
+  },
+  "128": {
+    "teamId": "128",
+    "displayName": "101 Pezzes",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "129": {
+    "teamId": "129",
+    "displayName": "honkerino poggerino",
+    "numSolves": 46,
+    "lastSolveTime": 1756991233343,
+    "completionTime": 1756966133466
+  },
+  "130": {
+    "teamId": "130",
+    "displayName": "🪿 Geese Lightning 🪿",
+    "numSolves": 47,
+    "lastSolveTime": 1757356035157,
+    "completionTime": 1757349496250
+  },
+  "131": {
+    "teamId": "131",
+    "displayName": "Blurple",
+    "numSolves": 8,
+    "lastSolveTime": 1756587053375
+  },
+  "132": {
+    "teamId": "132",
+    "displayName": "Ronnie Solo",
+    "numSolves": 0
+  },
+  "133": {
+    "teamId": "133",
+    "displayName": "Wizards of Aus",
+    "numSolves": 4,
+    "lastSolveTime": 1756782592394
+  },
+  "134": {
+    "teamId": "134",
+    "displayName": "幼稚园的小猫咪",
+    "numSolves": 0
+  },
+  "135": {
+    "teamId": "135",
+    "displayName": "Jenam",
+    "numSolves": 1,
+    "lastSolveTime": 1756772221191
+  },
+  "136": {
+    "teamId": "136",
+    "displayName": "ˈtɛrə ɔːˈstrælɪs",
+    "numSolves": 50,
+    "lastSolveTime": 1756910375533,
+    "completionTime": 1756909769157
+  },
+  "137": {
+    "teamId": "137",
+    "displayName": "Pennys",
+    "numSolves": 34,
+    "lastSolveTime": 1757329171742
+  },
+  "138": {
+    "teamId": "138",
+    "displayName": "We are going on a puzzle hunt",
+    "numSolves": 13,
+    "lastSolveTime": 1756382895421
+  },
+  "139": {
+    "teamId": "139",
+    "displayName": "Belmonsters",
+    "numSolves": 24,
+    "lastSolveTime": 1757352437772
+  },
+  "140": {
+    "teamId": "140",
+    "displayName": "Puzzles are for Slo❤️ers",
+    "numSolves": 16,
+    "lastSolveTime": 1757298726710
+  },
+  "141": {
+    "teamId": "141",
+    "displayName": "3 Wild Wardens",
+    "numSolves": 26,
+    "lastSolveTime": 1756695225229
+  },
+  "142": {
+    "teamId": "142",
+    "displayName": "🌀✨ Tumble in the Icy Jumble! ✨❄️",
+    "numSolves": 15,
+    "lastSolveTime": 1756145478139
+  },
+  "143": {
+    "teamId": "143",
+    "displayName": "V. M. Varga",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "144": {
+    "teamId": "144",
+    "displayName": "meowzle",
+    "numSolves": 38,
+    "lastSolveTime": 1757348767133
+  },
+  "145": {
+    "teamId": "145",
+    "displayName": "Stooth Moves",
+    "numSolves": 2,
+    "lastSolveTime": 1756895065731
+  },
+  "146": {
+    "teamId": "146",
+    "displayName": "KevinHelpUs",
+    "numSolves": 13,
+    "lastSolveTime": 1756550187624
+  },
+  "147": {
+    "teamId": "147",
+    "displayName": "sufficientlylargen",
+    "numSolves": 27,
+    "lastSolveTime": 1757369364711
+  },
+  "149": {
+    "teamId": "149",
+    "displayName": "Juniper",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "150": {
+    "teamId": "150",
+    "displayName": "Aim Higher",
+    "numSolves": 9,
+    "lastSolveTime": 1756621128962
+  },
+  "151": {
+    "teamId": "151",
+    "displayName": "Grad Unified Theory",
+    "numSolves": 45,
+    "lastSolveTime": 1756703243080,
+    "completionTime": 1756702647095
+  },
+  "152": {
+    "teamId": "152",
+    "displayName": "Thunderzshock",
+    "numSolves": 0
+  },
+  "153": {
+    "teamId": "153",
+    "displayName": "TrePe Team",
+    "numSolves": 19,
+    "lastSolveTime": 1757235367862
+  },
+  "154": {
+    "teamId": "154",
+    "displayName": "LoneWolf",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "155": {
+    "teamId": "155",
+    "displayName": "Beans",
+    "numSolves": 2,
+    "lastSolveTime": 1756001485052
+  },
+  "156": {
+    "teamId": "156",
+    "displayName": "simplicissimus",
+    "numSolves": 0
+  },
+  "157": {
+    "teamId": "157",
+    "displayName": "Gaia Planet: Habitability +100%",
+    "numSolves": 50,
+    "lastSolveTime": 1756374287987,
+    "completionTime": 1756368327014
+  },
+  "158": {
+    "teamId": "158",
+    "displayName": "Duck Prison",
+    "numSolves": 0
+  },
+  "159": {
+    "teamId": "159",
+    "displayName": "Team Ton",
+    "numSolves": 0
+  },
+  "160": {
+    "teamId": "160",
+    "displayName": "Aronfrim Pioneer Hotel 🕊",
+    "numSolves": 14,
+    "lastSolveTime": 1756435530793
+  },
+  "161": {
+    "teamId": "161",
+    "displayName": "TheOrchids",
+    "numSolves": 8,
+    "lastSolveTime": 1757116726720
+  },
+  "162": {
+    "teamId": "162",
+    "displayName": "Up Goers",
+    "numSolves": 45,
+    "lastSolveTime": 1757370013771,
+    "completionTime": 1757369612013
+  },
+  "163": {
+    "teamId": "163",
+    "displayName": "trynasolvehere",
+    "numSolves": 2,
+    "lastSolveTime": 1756567319262
+  },
+  "164": {
+    "teamId": "164",
+    "displayName": "ล่าปริศนา",
+    "numSolves": 13,
+    "lastSolveTime": 1757011603266
+  },
+  "165": {
+    "teamId": "165",
+    "displayName": "International Mushroom captive Organization",
+    "numSolves": 0
+  },
+  "166": {
+    "teamId": "166",
+    "displayName": "Floo",
+    "numSolves": 0
+  },
+  "167": {
+    "teamId": "167",
+    "displayName": "SPecial oPS",
+    "numSolves": 9,
+    "lastSolveTime": 1756605252468
+  },
+  "168": {
+    "teamId": "168",
+    "displayName": "Shower Pomelo 🍈",
+    "numSolves": 50,
+    "lastSolveTime": 1757048859113,
+    "completionTime": 1756784016209
+  },
+  "169": {
+    "teamId": "169",
+    "displayName": "Person-at-Legs",
+    "numSolves": 0
+  },
+  "170": {
+    "teamId": "170",
+    "displayName": "Kevin",
+    "numSolves": 2,
+    "lastSolveTime": 1756342479080
+  },
+  "171": {
+    "teamId": "171",
+    "displayName": "Manic Menagerie",
+    "numSolves": 0
+  },
+  "172": {
+    "teamId": "172",
+    "displayName": "Yuki",
+    "numSolves": 50,
+    "lastSolveTime": 1757355783982,
+    "completionTime": 1757193146244
+  },
+  "173": {
+    "teamId": "173",
+    "displayName": "Shrektacular",
+    "numSolves": 11,
+    "lastSolveTime": 1756873955563
+  },
+  "174": {
+    "teamId": "174",
+    "displayName": "bed umber",
+    "numSolves": 49,
+    "lastSolveTime": 1756627912702,
+    "completionTime": 1756617571571
+  },
+  "175": {
+    "teamId": "175",
+    "displayName": "IfIfallintothesun",
+    "numSolves": 0
+  },
+  "176": {
+    "teamId": "176",
+    "displayName": "tableflip",
+    "numSolves": 8,
+    "lastSolveTime": 1757307629935
+  },
+  "177": {
+    "teamId": "177",
+    "displayName": "who knows",
+    "numSolves": 3,
+    "lastSolveTime": 1755986956685
+  },
+  "178": {
+    "teamId": "178",
+    "displayName": "反卷不抽卡",
+    "numSolves": 50,
+    "lastSolveTime": 1757009402576,
+    "completionTime": 1756610450834
+  },
+  "179": {
+    "teamId": "179",
+    "displayName": "eiddak",
+    "numSolves": 0
+  },
+  "180": {
+    "teamId": "180",
+    "displayName": "JඞKER? I HARDLY KNඞW HER!",
+    "numSolves": 13,
+    "lastSolveTime": 1756530617752
+  },
+  "181": {
+    "teamId": "181",
+    "displayName": "qtπ",
+    "numSolves": 1,
+    "lastSolveTime": 1756001297724
+  },
+  "182": {
+    "teamId": "182",
+    "displayName": "you had meat coffee",
+    "numSolves": 5,
+    "lastSolveTime": 1756059044957
+  },
+  "183": {
+    "teamId": "183",
+    "displayName": "speedingkillsbears",
+    "numSolves": 0
+  },
+  "184": {
+    "teamId": "184",
+    "displayName": "ZeebersTTV",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "185": {
+    "teamId": "185",
+    "displayName": "Moo's Clues",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "186": {
+    "teamId": "186",
+    "displayName": "Balgina",
+    "numSolves": 0
+  },
+  "187": {
+    "teamId": "187",
+    "displayName": "Five Minutes Faster",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "188": {
+    "teamId": "188",
+    "displayName": "Second Breakfast",
+    "numSolves": 4,
+    "lastSolveTime": 1756428613085
+  },
+  "189": {
+    "teamId": "189",
+    "displayName": "SolFire",
+    "numSolves": 0
+  },
+  "190": {
+    "teamId": "190",
+    "displayName": "Pencils and Stupidity",
+    "numSolves": 7,
+    "lastSolveTime": 1756570784660
+  },
+  "191": {
+    "teamId": "191",
+    "displayName": "凑不出-Hunger Air Game",
+    "numSolves": 50,
+    "lastSolveTime": 1756733204174,
+    "completionTime": 1756655208002
+  },
+  "192": {
+    "teamId": "192",
+    "displayName": "Tweleve Pack",
+    "numSolves": 3,
+    "lastSolveTime": 1756352101906
+  },
+  "193": {
+    "teamId": "193",
+    "displayName": "Copioids",
+    "numSolves": 7,
+    "lastSolveTime": 1756490518602
+  },
+  "194": {
+    "teamId": "194",
+    "displayName": "letterJayPuzzle",
+    "numSolves": 0
+  },
+  "195": {
+    "teamId": "195",
+    "displayName": "Glub Glub",
+    "numSolves": 28,
+    "lastSolveTime": 1757358362260
+  },
+  "196": {
+    "teamId": "196",
+    "displayName": "Blueberry and Meimei's Friends",
+    "numSolves": 7,
+    "lastSolveTime": 1756083197046
+  },
+  "197": {
+    "teamId": "197",
+    "displayName": "Kohnsteweition Hanters",
+    "numSolves": 50,
+    "lastSolveTime": 1756366540808,
+    "completionTime": 1756361506635
+  },
+  "198": {
+    "teamId": "198",
+    "displayName": "The Ducklings",
+    "numSolves": 8,
+    "lastSolveTime": 1756259503459
+  },
+  "199": {
+    "teamId": "199",
+    "displayName": "boredgaymers",
+    "numSolves": 12,
+    "lastSolveTime": 1757366904630
+  },
+  "200": {
+    "teamId": "200",
+    "displayName": "Timelords",
+    "numSolves": 2,
+    "lastSolveTime": 1756607542103
+  },
+  "201": {
+    "teamId": "201",
+    "displayName": "What's In My Mouth?",
+    "numSolves": 22,
+    "lastSolveTime": 1757023127753
+  },
+  "202": {
+    "teamId": "202",
+    "displayName": "Spring Spies",
+    "numSolves": 11,
+    "lastSolveTime": 1757234259726
+  },
+  "203": {
+    "teamId": "203",
+    "displayName": "The really bad solo team",
+    "numSolves": 2,
+    "lastSolveTime": 1756035996313
+  },
+  "204": {
+    "teamId": "204",
+    "displayName": "Puzzly & Wild",
+    "numSolves": 10,
+    "lastSolveTime": 1756854976775
+  },
+  "205": {
+    "teamId": "205",
+    "displayName": "Team Conundrum",
+    "numSolves": 6,
+    "lastSolveTime": 1756482926951
+  },
+  "206": {
+    "teamId": "206",
+    "displayName": "could",
+    "numSolves": 9,
+    "lastSolveTime": 1756618285944
+  },
+  "207": {
+    "teamId": "207",
+    "displayName": "The Intermittent Puzzlers",
+    "numSolves": 8,
+    "lastSolveTime": 1756194814684
+  },
+  "208": {
+    "teamId": "208",
+    "displayName": "Duck Soup",
+    "numSolves": 19,
+    "lastSolveTime": 1757359043067
+  },
+  "209": {
+    "teamId": "209",
+    "displayName": "Irish Billie Eilish",
+    "numSolves": 8,
+    "lastSolveTime": 1756756118748
+  },
+  "210": {
+    "teamId": "210",
+    "displayName": "Land before 🕧",
+    "numSolves": 14,
+    "lastSolveTime": 1756657881801
+  },
+  "211": {
+    "teamId": "211",
+    "displayName": "Meander",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "212": {
+    "teamId": "212",
+    "displayName": "Team Cirno",
+    "numSolves": 39,
+    "lastSolveTime": 1757349918096
+  },
+  "213": {
+    "teamId": "213",
+    "displayName": "Salutecissimus",
+    "numSolves": 50,
+    "lastSolveTime": 1756059969008,
+    "completionTime": 1756059476360
+  },
+  "214": {
+    "teamId": "214",
+    "displayName": "WIT",
+    "numSolves": 0
+  },
+  "215": {
+    "teamId": "215",
+    "displayName": "Good Things Come In 🌲🌲🌲",
+    "numSolves": 13,
+    "lastSolveTime": 1756933263863
+  },
+  "216": {
+    "teamId": "216",
+    "displayName": "Burnt Retinas",
+    "numSolves": 1,
+    "lastSolveTime": 1756133245140
+  },
+  "217": {
+    "teamId": "217",
+    "displayName": "Borealis Veritas",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "218": {
+    "teamId": "218",
+    "displayName": "Square Hearty Crackers",
+    "numSolves": 3,
+    "lastSolveTime": 1756396042153
+  },
+  "219": {
+    "teamId": "219",
+    "displayName": "Ready to Fail",
+    "numSolves": 4,
+    "lastSolveTime": 1756087866112
+  },
+  "220": {
+    "teamId": "220",
+    "displayName": "Duck Conundrum",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "221": {
+    "teamId": "221",
+    "displayName": "mí Mıesoa (fka mí Hoegaı)",
+    "numSolves": 1,
+    "lastSolveTime": 1756041964113
+  },
+  "222": {
+    "teamId": "222",
+    "displayName": "YakQuake",
+    "numSolves": 4,
+    "lastSolveTime": 1756167050382
+  },
+  "223": {
+    "teamId": "223",
+    "displayName": "Mathemagicians Assemble! Terraforming Habitats, Bringing Unforeseen Residents, Growing Evolutionary Results",
+    "numSolves": 28,
+    "lastSolveTime": 1757368176810
+  },
+  "224": {
+    "teamId": "224",
+    "displayName": "Mushroom Kindergarten",
+    "numSolves": 33,
+    "lastSolveTime": 1757353843082
+  },
+  "225": {
+    "teamId": "225",
+    "displayName": "Brentnicio del Rambco",
+    "numSolves": 18,
+    "lastSolveTime": 1757294030519
+  },
+  "226": {
+    "teamId": "226",
+    "displayName": "Panda Puzzler",
+    "numSolves": 0
+  },
+  "227": {
+    "teamId": "227",
+    "displayName": "STDF",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "228": {
+    "teamId": "228",
+    "displayName": "Wild Women Multiball",
+    "numSolves": 12,
+    "lastSolveTime": 1756297800070
+  },
+  "229": {
+    "teamId": "229",
+    "displayName": "miwa",
+    "numSolves": 3,
+    "lastSolveTime": 1756415147017
+  },
+  "230": {
+    "teamId": "230",
+    "displayName": "Keepcalm",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "231": {
+    "teamId": "231",
+    "displayName": "resolve",
+    "numSolves": 0
+  },
+  "232": {
+    "teamId": "232",
+    "displayName": "Puzzler? I hardly know her!",
+    "numSolves": 10,
+    "lastSolveTime": 1757368855958
+  },
+  "233": {
+    "teamId": "233",
+    "displayName": "Diehl With It🧩",
+    "numSolves": 2,
+    "lastSolveTime": 1756155852829
+  },
+  "234": {
+    "teamId": "234",
+    "displayName": "tuna (taco, cat, a nut)",
+    "numSolves": 17,
+    "lastSolveTime": 1757340971145
+  },
+  "235": {
+    "teamId": "235",
+    "displayName": "Unconventional Escape",
+    "numSolves": 3,
+    "lastSolveTime": 1756469755537
+  },
+  "236": {
+    "teamId": "236",
+    "displayName": "The Jovial Puzzlers",
+    "numSolves": 11,
+    "lastSolveTime": 1756388432107
+  },
+  "237": {
+    "teamId": "237",
+    "displayName": "TaCOS_Cluesday",
+    "numSolves": 4,
+    "lastSolveTime": 1756183952345
+  },
+  "238": {
+    "teamId": "238",
+    "displayName": "♀!",
+    "numSolves": 8,
+    "lastSolveTime": 1756424118755
+  },
+  "239": {
+    "teamId": "239",
+    "displayName": "Give us a klewi",
+    "numSolves": 13,
+    "lastSolveTime": 1756339018973
+  },
+  "240": {
+    "teamId": "240",
+    "displayName": "The Uncountable Six",
+    "numSolves": 12,
+    "lastSolveTime": 1756279275538
+  },
+  "241": {
+    "teamId": "241",
+    "displayName": "New World Camelids",
+    "numSolves": 47,
+    "lastSolveTime": 1756402160285,
+    "completionTime": 1756167383741
+  },
+  "242": {
+    "teamId": "242",
+    "displayName": "Occam's Cipher",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "243": {
+    "teamId": "243",
+    "displayName": "Home Grown Homies",
+    "numSolves": 0
+  },
+  "244": {
+    "teamId": "244",
+    "displayName": "The 25 Venters",
+    "numSolves": 16,
+    "lastSolveTime": 1757263977907
+  },
+  "245": {
+    "teamId": "245",
+    "displayName": "Team to be named at a later date",
+    "numSolves": 15,
+    "lastSolveTime": 1756417368152
+  },
+  "246": {
+    "teamId": "246",
+    "displayName": "NullPointerException",
+    "numSolves": 6,
+    "lastSolveTime": 1756100529979
+  },
+  "247": {
+    "teamId": "247",
+    "displayName": "david's dracontomelons",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "248": {
+    "teamId": "248",
+    "displayName": "a",
+    "numSolves": 12,
+    "lastSolveTime": 1757350165586
+  },
+  "249": {
+    "teamId": "249",
+    "displayName": "Northern Pikes",
+    "numSolves": 13,
+    "lastSolveTime": 1756335567319
+  },
+  "250": {
+    "teamId": "250",
+    "displayName": "AstroPals",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "251": {
+    "teamId": "251",
+    "displayName": "Dyslecsix Untie",
+    "numSolves": 20,
+    "lastSolveTime": 1757234936779
+  },
+  "252": {
+    "teamId": "252",
+    "displayName": "I-land Hoppers",
+    "numSolves": 48,
+    "lastSolveTime": 1757001675657,
+    "completionTime": 1757001204429
+  },
+  "253": {
+    "teamId": "253",
+    "displayName": "Globe Otters",
+    "numSolves": 25,
+    "lastSolveTime": 1757149115608
+  },
+  "254": {
+    "teamId": "254",
+    "displayName": "Universe Uniting Underlings",
+    "numSolves": 50,
+    "lastSolveTime": 1756858848631,
+    "completionTime": 1756280020178
+  },
+  "255": {
+    "teamId": "255",
+    "displayName": "Team Dream",
+    "numSolves": 12,
+    "lastSolveTime": 1756589133031
+  },
+  "256": {
+    "teamId": "256",
+    "displayName": "Dutch",
+    "numSolves": 0
+  },
+  "257": {
+    "teamId": "257",
+    "displayName": "#Mise",
+    "numSolves": 23,
+    "lastSolveTime": 1757211060133
+  },
+  "258": {
+    "teamId": "258",
+    "displayName": "Bakushin",
+    "numSolves": 13,
+    "lastSolveTime": 1757304270709
+  },
+  "259": {
+    "teamId": "259",
+    "displayName": "SIMOWO",
+    "numSolves": 50,
+    "lastSolveTime": 1756726690804,
+    "completionTime": 1756710507676
+  },
+  "260": {
+    "teamId": "260",
+    "displayName": "The Friendship Paradox",
+    "numSolves": 16,
+    "lastSolveTime": 1757052134908
+  },
+  "261": {
+    "teamId": "261",
+    "displayName": "cruciverbalists",
+    "numSolves": 45,
+    "lastSolveTime": 1757106091431,
+    "completionTime": 1757100422063
+  },
+  "262": {
+    "teamId": "262",
+    "displayName": "A Village Hidden Among The Trees",
+    "numSolves": 11,
+    "lastSolveTime": 1757293684362
+  },
+  "263": {
+    "teamId": "263",
+    "displayName": "The team representing the guy with hands over his eyes in del Toro's famous movie \"Pan's Labyrinth\"",
+    "numSolves": 21,
+    "lastSolveTime": 1756690287056
+  },
+  "264": {
+    "teamId": "264",
+    "displayName": "Ultimate Brownies",
+    "numSolves": 50,
+    "lastSolveTime": 1757266291084,
+    "completionTime": 1756959456300
+  },
+  "265": {
+    "teamId": "265",
+    "displayName": "The Beginner's Guide",
+    "numSolves": 15,
+    "lastSolveTime": 1756918472012
+  },
+  "266": {
+    "teamId": "266",
+    "displayName": "pluru",
+    "numSolves": 49,
+    "lastSolveTime": 1756580474016,
+    "completionTime": 1756579835283
+  },
+  "267": {
+    "teamId": "267",
+    "displayName": "Bottom 1 puzzle solver of all time",
+    "numSolves": 4,
+    "lastSolveTime": 1756241814834
+  },
+  "268": {
+    "teamId": "268",
+    "displayName": "野兽先辈探案组",
+    "numSolves": 25,
+    "lastSolveTime": 1757301986383
+  },
+  "269": {
+    "teamId": "269",
+    "displayName": "aTypical Magical Girls",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "270": {
+    "teamId": "270",
+    "displayName": "dilfnation",
+    "numSolves": 7,
+    "lastSolveTime": 1756362375434
+  },
+  "271": {
+    "teamId": "271",
+    "displayName": "Useless Shaved Yak",
+    "numSolves": 16,
+    "lastSolveTime": 1757247676960
+  },
+  "272": {
+    "teamId": "272",
+    "displayName": "JustMe",
+    "numSolves": 10,
+    "lastSolveTime": 1756535499215
+  },
+  "273": {
+    "teamId": "273",
+    "displayName": ":unsmoothermiya:",
+    "numSolves": 7,
+    "lastSolveTime": 1757082630034
+  },
+  "274": {
+    "teamId": "274",
+    "displayName": "Puzzles Puzzle But They Don't Fall Down",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "275": {
+    "teamId": "275",
+    "displayName": ":pr𐑀ytrick:",
+    "numSolves": 0
+  },
+  "276": {
+    "teamId": "276",
+    "displayName": "In Case of Emergency Solve Puzzle",
+    "numSolves": 1,
+    "lastSolveTime": 1757186762397
+  },
+  "277": {
+    "teamId": "277",
+    "displayName": "KaBaL",
+    "numSolves": 34,
+    "lastSolveTime": 1756872539657
+  },
+  "278": {
+    "teamId": "278",
+    "displayName": "✨✨🌟!!!!! Huzzle punters solve galactic puzzle hunt: the year they unlock more than ever before!!!!!!!⭐️⭐️🌌",
+    "numSolves": 7,
+    "lastSolveTime": 1757236553074
+  },
+  "279": {
+    "teamId": "279",
+    "displayName": "Puzzle Hunter? I Hardly Know Her!",
+    "numSolves": 5,
+    "lastSolveTime": 1757167200199
+  },
+  "280": {
+    "teamId": "280",
+    "displayName": "Dynamically Developing Steppe",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "281": {
+    "teamId": "281",
+    "displayName": "Mavericks",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "282": {
+    "teamId": "282",
+    "displayName": "Vulpecula",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "283": {
+    "teamId": "283",
+    "displayName": "Just Another Clueless Squadron",
+    "numSolves": 9,
+    "lastSolveTime": 1757271124311
+  },
+  "284": {
+    "teamId": "284",
+    "displayName": "FlippedPotato",
+    "numSolves": 9,
+    "lastSolveTime": 1756658300351
+  },
+  "285": {
+    "teamId": "285",
+    "displayName": "Callie's Enterprise",
+    "numSolves": 29,
+    "lastSolveTime": 1757337598373
+  },
+  "286": {
+    "teamId": "286",
+    "displayName": "Vile Pirates",
+    "numSolves": 3,
+    "lastSolveTime": 1756693637020
+  },
+  "287": {
+    "teamId": "287",
+    "displayName": "Guymy",
+    "numSolves": 6,
+    "lastSolveTime": 1756928237209
+  },
+  "288": {
+    "teamId": "288",
+    "displayName": "applechips",
+    "numSolves": 0
+  },
+  "289": {
+    "teamId": "289",
+    "displayName": "Antibrick",
+    "numSolves": 0
+  },
+  "290": {
+    "teamId": "290",
+    "displayName": "My self",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "291": {
+    "teamId": "291",
+    "displayName": "kikyokyakyo",
+    "numSolves": 1,
+    "lastSolveTime": 1755994665440
+  },
+  "292": {
+    "teamId": "292",
+    "displayName": "properPlanetNameGenerator()",
+    "numSolves": 14,
+    "lastSolveTime": 1756304526333
+  },
+  "293": {
+    "teamId": "293",
+    "displayName": "Teto Withers",
+    "numSolves": 46,
+    "lastSolveTime": 1756704416129,
+    "completionTime": 1756704076765
+  },
+  "294": {
+    "teamId": "294",
+    "displayName": "French Fries",
+    "numSolves": 13,
+    "lastSolveTime": 1756219049008
+  },
+  "295": {
+    "teamId": "295",
+    "displayName": "Botany Plants",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "296": {
+    "teamId": "296",
+    "displayName": "Archeteletypists",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "297": {
+    "teamId": "297",
+    "displayName": "Quantum Spider",
+    "numSolves": 7,
+    "lastSolveTime": 1757266185296
+  },
+  "298": {
+    "teamId": "298",
+    "displayName": "Stuck on Extraction",
+    "numSolves": 2,
+    "lastSolveTime": 1756509319199
+  },
+  "299": {
+    "teamId": "299",
+    "displayName": "Victor",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "300": {
+    "teamId": "300",
+    "displayName": "深色墨点",
+    "numSolves": 32,
+    "lastSolveTime": 1757184882512
+  },
+  "301": {
+    "teamId": "301",
+    "displayName": "Beloved Planetary Constructor",
+    "numSolves": 48,
+    "lastSolveTime": 1757006238980,
+    "completionTime": 1756833443008
+  },
+  "302": {
+    "teamId": "302",
+    "displayName": "R4nd0m B00l5h33t5 G0",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "303": {
+    "teamId": "303",
+    "displayName": "🥚👍",
+    "numSolves": 37,
+    "lastSolveTime": 1757370348475
+  },
+  "304": {
+    "teamId": "304",
+    "displayName": "RP Diem",
+    "numSolves": 15,
+    "lastSolveTime": 1756934399767
+  },
+  "305": {
+    "teamId": "305",
+    "displayName": "Maxwells Angel",
+    "numSolves": 6,
+    "lastSolveTime": 1757056470727
+  },
+  "306": {
+    "teamId": "306",
+    "displayName": "TheBigFish",
+    "numSolves": 6,
+    "lastSolveTime": 1757092781251
+  },
+  "307": {
+    "teamId": "307",
+    "displayName": "Not A Reviver",
+    "numSolves": 46,
+    "lastSolveTime": 1757341393230,
+    "completionTime": 1756833816727
+  },
+  "308": {
+    "teamId": "308",
+    "displayName": "[title of team]",
+    "numSolves": 47,
+    "lastSolveTime": 1757131828549,
+    "completionTime": 1756966842300
+  },
+  "309": {
+    "teamId": "309",
+    "displayName": "YCMBR",
+    "numSolves": 31,
+    "lastSolveTime": 1757321864865
+  },
+  "310": {
+    "teamId": "310",
+    "displayName": "Inevitable Seven",
+    "numSolves": 10,
+    "lastSolveTime": 1757255755169
+  },
+  "311": {
+    "teamId": "311",
+    "displayName": "Moose Eating Bat",
+    "numSolves": 12,
+    "lastSolveTime": 1756959319061
+  },
+  "312": {
+    "teamId": "312",
+    "displayName": "TEAM.KATHARSIS",
+    "numSolves": 25,
+    "lastSolveTime": 1757343384012
+  },
+  "313": {
+    "teamId": "313",
+    "displayName": "Dirty Bayes",
+    "numSolves": 24,
+    "lastSolveTime": 1757039289439
+  },
+  "314": {
+    "teamId": "314",
+    "displayName": "e building esports",
+    "numSolves": 1,
+    "lastSolveTime": 1756143884740
+  },
+  "315": {
+    "teamId": "315",
+    "displayName": "38.53513, 24.04262",
+    "numSolves": 17,
+    "lastSolveTime": 1757364272855
+  },
+  "316": {
+    "teamId": "316",
+    "displayName": "Lustin Djinn",
+    "numSolves": 11,
+    "lastSolveTime": 1756246551873
+  },
+  "317": {
+    "teamId": "317",
+    "displayName": "asherpangu fans <3",
+    "numSolves": 1,
+    "lastSolveTime": 1756010666224
+  },
+  "318": {
+    "teamId": "318",
+    "displayName": "PTT",
+    "numSolves": 0
+  },
+  "319": {
+    "teamId": "319",
+    "displayName": "Dukael",
+    "numSolves": 3,
+    "lastSolveTime": 1756086959469
+  },
+  "320": {
+    "teamId": "320",
+    "displayName": "Rainbow Ravens",
+    "numSolves": 6,
+    "lastSolveTime": 1756426979181
+  },
+  "321": {
+    "teamId": "321",
+    "displayName": "Catpuccinos🐱",
+    "numSolves": 11,
+    "lastSolveTime": 1756262678384
+  },
+  "322": {
+    "teamId": "322",
+    "displayName": "Supernova",
+    "numSolves": 0
+  },
+  "323": {
+    "teamId": "323",
+    "displayName": "ADD @TIANJI4 ON DISCORD FOR TEAM",
+    "numSolves": 0
+  },
+  "324": {
+    "teamId": "324",
+    "displayName": "Aaron",
+    "numSolves": 0
+  },
+  "325": {
+    "teamId": "325",
+    "displayName": "scrub",
+    "numSolves": 5,
+    "lastSolveTime": 1757363479604
+  },
+  "326": {
+    "teamId": "326",
+    "displayName": "300bpm jumps",
+    "numSolves": 46,
+    "lastSolveTime": 1757366428381,
+    "completionTime": 1757365711306
+  },
+  "327": {
+    "teamId": "327",
+    "displayName": "Inspectres 3: Return of the Ghosts",
+    "numSolves": 15,
+    "lastSolveTime": 1757022270541
+  },
+  "328": {
+    "teamId": "328",
+    "displayName": "CyFur",
+    "numSolves": 35,
+    "lastSolveTime": 1757317719446
+  },
+  "329": {
+    "teamId": "329",
+    "displayName": "GravityPlusVelocity",
+    "numSolves": 4,
+    "lastSolveTime": 1756911089292
+  },
+  "330": {
+    "teamId": "330",
+    "displayName": "GekitotsuEMK",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "331": {
+    "teamId": "331",
+    "displayName": "PonX",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "332": {
+    "teamId": "332",
+    "displayName": "啊wee改哈鞥嫦娥我刚不疤痕处哈维楚王嗡阿格王朔！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！",
+    "numSolves": 12,
+    "lastSolveTime": 1756396360298
+  },
+  "333": {
+    "teamId": "333",
+    "displayName": "PATHfinders",
+    "numSolves": 19,
+    "lastSolveTime": 1757212246304
+  },
+  "334": {
+    "teamId": "334",
+    "displayName": "Fastest Encoding",
+    "numSolves": 2,
+    "lastSolveTime": 1756901024672
+  },
+  "335": {
+    "teamId": "335",
+    "displayName": "就叫这个了",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "336": {
+    "teamId": "336",
+    "displayName": "The Metaphysical Kids",
+    "numSolves": 23,
+    "lastSolveTime": 1757134319093
+  },
+  "337": {
+    "teamId": "337",
+    "displayName": "TruFact™",
+    "numSolves": 41,
+    "lastSolveTime": 1756966169751,
+    "completionTime": 1756966097103
+  },
+  "338": {
+    "teamId": "338",
+    "displayName": "UrbanBlock",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "339": {
+    "teamId": "339",
+    "displayName": "🚀🚀🚀",
+    "numSolves": 46,
+    "lastSolveTime": 1757319416737,
+    "completionTime": 1757315161659
+  },
+  "340": {
+    "teamId": "340",
+    "displayName": "peanut",
+    "numSolves": 12,
+    "lastSolveTime": 1756415181484
+  },
+  "341": {
+    "teamId": "341",
+    "displayName": "SOTQ",
+    "numSolves": 21,
+    "lastSolveTime": 1757353511707
+  },
+  "342": {
+    "teamId": "342",
+    "displayName": "野炊含有不适宜内容",
+    "numSolves": 38,
+    "lastSolveTime": 1757230991454
+  },
+  "343": {
+    "teamId": "343",
+    "displayName": "JUSTeam",
+    "numSolves": 44,
+    "lastSolveTime": 1757310541615,
+    "completionTime": 1757309971250
+  },
+  "344": {
+    "teamId": "344",
+    "displayName": "Deinococcus radiodurans",
+    "numSolves": 12,
+    "lastSolveTime": 1756816994212
+  },
+  "345": {
+    "teamId": "345",
+    "displayName": "Team Peggle",
+    "numSolves": 11,
+    "lastSolveTime": 1756943593895
+  },
+  "346": {
+    "teamId": "346",
+    "displayName": "Team Names are Hard",
+    "numSolves": 47,
+    "lastSolveTime": 1756878789811,
+    "completionTime": 1756877401692
+  },
+  "347": {
+    "teamId": "347",
+    "displayName": "-----金牌线-----|灵境TES",
+    "numSolves": 50,
+    "lastSolveTime": 1757260596761,
+    "completionTime": 1756818136879
+  },
+  "348": {
+    "teamId": "348",
+    "displayName": "Finding palindromized substring",
+    "numSolves": 2,
+    "lastSolveTime": 1756144782719
+  },
+  "349": {
+    "teamId": "349",
+    "displayName": "Just Nutrimatic",
+    "numSolves": 15,
+    "lastSolveTime": 1757134826578
+  },
+  "350": {
+    "teamId": "350",
+    "displayName": "nonfirewall",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "351": {
+    "teamId": "351",
+    "displayName": "Beverage group",
+    "numSolves": 1,
+    "lastSolveTime": 1756501422928
+  },
+  "352": {
+    "teamId": "352",
+    "displayName": "===linus===",
+    "numSolves": 21,
+    "lastSolveTime": 1757232790587
+  },
+  "353": {
+    "teamId": "353",
+    "displayName": "minggo",
+    "numSolves": 0
+  },
+  "354": {
+    "teamId": "354",
+    "displayName": "DWWVPuzzles",
+    "numSolves": 6,
+    "lastSolveTime": 1756250534230
+  },
+  "355": {
+    "teamId": "355",
+    "displayName": "dootdoot",
+    "numSolves": 15,
+    "lastSolveTime": 1756349954301
+  },
+  "356": {
+    "teamId": "356",
+    "displayName": "何以为我",
+    "numSolves": 23,
+    "lastSolveTime": 1756956659279
+  },
+  "357": {
+    "teamId": "357",
+    "displayName": "Puzzlin' Wugs",
+    "numSolves": 21,
+    "lastSolveTime": 1757186580145
+  },
+  "358": {
+    "teamId": "358",
+    "displayName": "Turkey and Kestrel",
+    "numSolves": 7,
+    "lastSolveTime": 1757192283463
+  },
+  "359": {
+    "teamId": "359",
+    "displayName": "Quartziferous Dendrite",
+    "numSolves": 50,
+    "lastSolveTime": 1756387234718,
+    "completionTime": 1756338435624
+  },
+  "360": {
+    "teamId": "360",
+    "displayName": "Quackgrass Dew",
+    "numSolves": 12,
+    "lastSolveTime": 1756352685746
+  },
+  "361": {
+    "teamId": "361",
+    "displayName": "Quadral Drafts",
+    "numSolves": 13,
+    "lastSolveTime": 1757311424372
+  },
+  "362": {
+    "teamId": "362",
+    "displayName": "\"1. Puzzle Me This 2. Quantic Quandaries 3. The Codebreakers 4. Infinite Loopers 5. Puzzling Pythons Hope these click with your team! Would you like more options or a tweak to any of these?\" ~ChatGPT",
+    "numSolves": 11,
+    "lastSolveTime": 1757369982566
+  },
+  "363": {
+    "teamId": "363",
+    "displayName": "🐱",
+    "numSolves": 15,
+    "lastSolveTime": 1757051005132
+  },
+  "364": {
+    "teamId": "364",
+    "displayName": "Dan City",
+    "numSolves": 11,
+    "lastSolveTime": 1756064254610
+  },
+  "365": {
+    "teamId": "365",
+    "displayName": "Corgaroos",
+    "numSolves": 47,
+    "lastSolveTime": 1757216229670,
+    "completionTime": 1757197172136
+  },
+  "366": {
+    "teamId": "366",
+    "displayName": "<Queue>Ts",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "367": {
+    "teamId": "367",
+    "displayName": "Sh1R0",
+    "numSolves": 8,
+    "lastSolveTime": 1756920662037
+  },
+  "368": {
+    "teamId": "368",
+    "displayName": "Nemeses",
+    "numSolves": 3,
+    "lastSolveTime": 1756041541562
+  },
+  "369": {
+    "teamId": "369",
+    "displayName": "beangirls",
+    "numSolves": 2,
+    "lastSolveTime": 1756185576675
+  },
+  "370": {
+    "teamId": "370",
+    "displayName": "Soloist",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "371": {
+    "teamId": "371",
+    "displayName": "boys band cipher",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "372": {
+    "teamId": "372",
+    "displayName": "000",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "373": {
+    "teamId": "373",
+    "displayName": "zuckylee",
+    "numSolves": 5,
+    "lastSolveTime": 1756282331876
+  },
+  "374": {
+    "teamId": "374",
+    "displayName": "Team 3인큐",
+    "numSolves": 38,
+    "lastSolveTime": 1757312346876,
+    "isHidden": true
+  },
+  "375": {
+    "teamId": "375",
+    "displayName": "42 Readonly",
+    "numSolves": 10,
+    "lastSolveTime": 1756394325839
+  },
+  "376": {
+    "teamId": "376",
+    "displayName": "Only Captain is Straight",
+    "numSolves": 25,
+    "lastSolveTime": 1757122552071
+  },
+  "377": {
+    "teamId": "377",
+    "displayName": "TeamSUA",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "378": {
+    "teamId": "378",
+    "displayName": "休闲划水答题队",
+    "numSolves": 7,
+    "lastSolveTime": 1756483403006
+  },
+  "379": {
+    "teamId": "379",
+    "displayName": "天南地北",
+    "numSolves": 21,
+    "lastSolveTime": 1756954568749
+  },
+  "380": {
+    "teamId": "380",
+    "displayName": "Geese",
+    "numSolves": 14,
+    "lastSolveTime": 1756585505633
+  },
+  "381": {
+    "teamId": "381",
+    "displayName": "Malaka Malarkey",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "382": {
+    "teamId": "382",
+    "displayName": "ONS puzzelaars",
+    "numSolves": 23,
+    "lastSolveTime": 1757356782052
+  },
+  "383": {
+    "teamId": "383",
+    "displayName": "False Knight",
+    "numSolves": 0
+  },
+  "384": {
+    "teamId": "384",
+    "displayName": "bbcc",
+    "numSolves": 2,
+    "lastSolveTime": 1756177736484
+  },
+  "385": {
+    "teamId": "385",
+    "displayName": "huh?",
+    "numSolves": 50,
+    "lastSolveTime": 1756760013718,
+    "completionTime": 1756759227670
+  },
+  "386": {
+    "teamId": "386",
+    "displayName": "Giant Palouse Earthworm",
+    "numSolves": 4,
+    "lastSolveTime": 1756095800139
+  },
+  "387": {
+    "teamId": "387",
+    "displayName": "Seattle Kraken the Code",
+    "numSolves": 29,
+    "lastSolveTime": 1757364400681
+  },
+  "388": {
+    "teamId": "388",
+    "displayName": "URLy Onset Stupidity",
+    "numSolves": 48,
+    "lastSolveTime": 1756622279920,
+    "completionTime": 1756621802518
+  },
+  "389": {
+    "teamId": "389",
+    "displayName": "have you tried terraforming mars?",
+    "numSolves": 26,
+    "lastSolveTime": 1756676811933
+  },
+  "390": {
+    "teamId": "390",
+    "displayName": "mayorkga",
+    "numSolves": 4,
+    "lastSolveTime": 1756307184770
+  },
+  "391": {
+    "teamId": "391",
+    "displayName": "hampters",
+    "numSolves": 5,
+    "lastSolveTime": 1757293637870
+  },
+  "392": {
+    "teamId": "392",
+    "displayName": "Dajiangyou",
+    "numSolves": 8,
+    "lastSolveTime": 1757211522241
+  },
+  "393": {
+    "teamId": "393",
+    "displayName": "The Horizon",
+    "numSolves": 6,
+    "lastSolveTime": 1756188280524
+  },
+  "394": {
+    "teamId": "394",
+    "displayName": "Professor Indigo",
+    "numSolves": 5,
+    "lastSolveTime": 1756444178198
+  },
+  "395": {
+    "teamId": "395",
+    "displayName": "decompals",
+    "numSolves": 16,
+    "lastSolveTime": 1757294641176
+  },
+  "396": {
+    "teamId": "396",
+    "displayName": "not actually puzzling",
+    "numSolves": 6,
+    "lastSolveTime": 1757162250225
+  },
+  "397": {
+    "teamId": "397",
+    "displayName": "Tricksters",
+    "numSolves": 48,
+    "lastSolveTime": 1756283048984,
+    "completionTime": 1756282346974
+  },
+  "398": {
+    "teamId": "398",
+    "displayName": "Histórias Sem Fim",
+    "numSolves": 2,
+    "lastSolveTime": 1756318690421
+  },
+  "399": {
+    "teamId": "399",
+    "displayName": "Dungeons and Puzzles",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "400": {
+    "teamId": "400",
+    "displayName": "sleepers",
+    "numSolves": 1,
+    "lastSolveTime": 1755971165820
+  },
+  "401": {
+    "teamId": "401",
+    "displayName": "Res Publica",
+    "numSolves": 3,
+    "lastSolveTime": 1756292709721
+  },
+  "402": {
+    "teamId": "402",
+    "displayName": "🐆 Cheatahs 🐆",
+    "numSolves": 50,
+    "lastSolveTime": 1756609457992,
+    "completionTime": 1756603831249
+  },
+  "403": {
+    "teamId": "403",
+    "displayName": "when_will_we_be_like_them",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "404": {
+    "teamId": "404",
+    "displayName": "Microscopic Matadors",
+    "numSolves": 11,
+    "lastSolveTime": 1756847416860,
+    "isHidden": true
+  },
+  "405": {
+    "teamId": "405",
+    "displayName": "SorrowLightClub",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "406": {
+    "teamId": "406",
+    "displayName": ":praytrick:",
+    "numSolves": 50,
+    "lastSolveTime": 1756835886510,
+    "completionTime": 1756114067114
+  },
+  "407": {
+    "teamId": "407",
+    "displayName": "igy297",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "408": {
+    "teamId": "408",
+    "displayName": "似是而非之证妍",
+    "numSolves": 41,
+    "lastSolveTime": 1757370063638
+  },
+  "409": {
+    "teamId": "409",
+    "displayName": "Frumious Bandersnatch",
+    "numSolves": 48,
+    "lastSolveTime": 1757337348901,
+    "completionTime": 1757336354495
+  },
+  "410": {
+    "teamId": "410",
+    "displayName": "[number of team members] Lingopians in a Trenchcoat",
+    "numSolves": 33,
+    "lastSolveTime": 1757314010737
+  },
+  "411": {
+    "teamId": "411",
+    "displayName": "Underscore_",
+    "numSolves": 49,
+    "lastSolveTime": 1756657246380,
+    "completionTime": 1756656976518
+  },
+  "412": {
+    "teamId": "412",
+    "displayName": "Guess Who's Backsolving, Backsolving Again",
+    "numSolves": 49,
+    "lastSolveTime": 1757089938058,
+    "completionTime": 1757087212822
+  },
+  "413": {
+    "teamId": "413",
+    "displayName": "SpeckledPickles",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "414": {
+    "teamId": "414",
+    "displayName": "candybar123",
+    "numSolves": 4,
+    "lastSolveTime": 1756110064974,
+    "isHidden": true
+  },
+  "415": {
+    "teamId": "415",
+    "displayName": "generals.io",
+    "numSolves": 1,
+    "lastSolveTime": 1756053185393
+  },
+  "416": {
+    "teamId": "416",
+    "displayName": "Arena Gauntlet League",
+    "numSolves": 8,
+    "lastSolveTime": 1756523437629
+  },
+  "417": {
+    "teamId": "417",
+    "displayName": "The Elite",
+    "numSolves": 10,
+    "lastSolveTime": 1756406856483
+  },
+  "418": {
+    "teamId": "418",
+    "displayName": "Goodnight Vienna",
+    "numSolves": 1,
+    "lastSolveTime": 1756021339601
+  },
+  "419": {
+    "teamId": "419",
+    "displayName": "求求你让我看一眼题吧我什么都会做的",
+    "numSolves": 45,
+    "lastSolveTime": 1757239621616,
+    "completionTime": 1757235848067
+  },
+  "420": {
+    "teamId": "420",
+    "displayName": "#itsa1stop",
+    "numSolves": 3,
+    "lastSolveTime": 1756412297481
+  },
+  "421": {
+    "teamId": "421",
+    "displayName": "PocketScience",
+    "numSolves": 0
+  },
+  "422": {
+    "teamId": "422",
+    "displayName": "Axiological Essentialism",
+    "numSolves": 8,
+    "lastSolveTime": 1756592439133
+  },
+  "423": {
+    "teamId": "423",
+    "displayName": "Spurn Saturn & Burn",
+    "numSolves": 4,
+    "lastSolveTime": 1756455712623
+  },
+  "424": {
+    "teamId": "424",
+    "displayName": "SUSUKEKI",
+    "numSolves": 46,
+    "lastSolveTime": 1757267459854,
+    "completionTime": 1757264350433
+  },
+  "425": {
+    "teamId": "425",
+    "displayName": "Killer Chicken Bones",
+    "numSolves": 46,
+    "lastSolveTime": 1756174251128,
+    "completionTime": 1756173260635
+  },
+  "426": {
+    "teamId": "426",
+    "displayName": "τeam τaurτle",
+    "numSolves": 18,
+    "lastSolveTime": 1756732525166
+  },
+  "427": {
+    "teamId": "427",
+    "displayName": "Crystal Maiden",
+    "numSolves": 8,
+    "lastSolveTime": 1756776719230
+  },
+  "428": {
+    "teamId": "428",
+    "displayName": "coby pan",
+    "numSolves": 12,
+    "lastSolveTime": 1756420603322
+  },
+  "429": {
+    "teamId": "429",
+    "displayName": "Fighting Ferrites",
+    "numSolves": 11,
+    "lastSolveTime": 1757358064134
+  },
+  "430": {
+    "teamId": "430",
+    "displayName": "WatchMeJumpstart",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "431": {
+    "teamId": "431",
+    "displayName": "McQueens",
+    "numSolves": 11,
+    "lastSolveTime": 1757257710483
+  },
+  "432": {
+    "teamId": "432",
+    "displayName": "ALPAXA and Friends",
+    "numSolves": 12,
+    "lastSolveTime": 1757235737114
+  },
+  "433": {
+    "teamId": "433",
+    "displayName": "长期素食队",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "434": {
+    "teamId": "434",
+    "displayName": "kol",
+    "numSolves": 12,
+    "lastSolveTime": 1756434789938
+  },
+  "435": {
+    "teamId": "435",
+    "displayName": "Pleasant Mother Pheasant Pluckers",
+    "numSolves": 11,
+    "lastSolveTime": 1756265012011
+  },
+  "436": {
+    "teamId": "436",
+    "displayName": "Ladder Gods",
+    "numSolves": 12,
+    "lastSolveTime": 1756686773117
+  },
+  "437": {
+    "teamId": "437",
+    "displayName": "Exocoetus Pinkcosmos",
+    "numSolves": 0
+  },
+  "438": {
+    "teamId": "438",
+    "displayName": "Maxwell's Solver Hunters",
+    "numSolves": 2,
+    "lastSolveTime": 1755998516362
+  },
+  "439": {
+    "teamId": "439",
+    "displayName": "💣️💣️💣️BOOMDOOR💣️💣️💣️",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "440": {
+    "teamId": "440",
+    "displayName": "Tc",
+    "numSolves": 2,
+    "lastSolveTime": 1756074587491
+  },
+  "441": {
+    "teamId": "441",
+    "displayName": "Donner Party",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "442": {
+    "teamId": "442",
+    "displayName": "decrypt this hunt",
+    "numSolves": 12,
+    "lastSolveTime": 1757040869396
+  },
+  "443": {
+    "teamId": "443",
+    "displayName": "Ten Apples",
+    "numSolves": 43,
+    "lastSolveTime": 1757052403481,
+    "completionTime": 1757047386223
+  },
+  "444": {
+    "teamId": "444",
+    "displayName": "Unexpected Canals in Martian Area",
+    "numSolves": 39,
+    "lastSolveTime": 1757332275288
+  },
+  "445": {
+    "teamId": "445",
+    "displayName": "endymion",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "446": {
+    "teamId": "446",
+    "displayName": "Filthy Casuals",
+    "numSolves": 4,
+    "lastSolveTime": 1756007136169
+  },
+  "447": {
+    "teamId": "447",
+    "displayName": "Rexei喵喵队",
+    "numSolves": 1,
+    "lastSolveTime": 1756006808610
+  },
+  "448": {
+    "teamId": "448",
+    "displayName": "Rhine",
+    "numSolves": 2,
+    "lastSolveTime": 1756054695436
+  },
+  "449": {
+    "teamId": "449",
+    "displayName": "wddydtql!(14）",
+    "numSolves": 15,
+    "lastSolveTime": 1756828669083
+  },
+  "450": {
+    "teamId": "450",
+    "displayName": "Team Turtle",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "451": {
+    "teamId": "451",
+    "displayName": "意被纸乐队",
+    "numSolves": 0
+  },
+  "452": {
+    "teamId": "452",
+    "displayName": "jaks",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "453": {
+    "teamId": "453",
+    "displayName": "Team Constructed Adventures",
+    "numSolves": 14,
+    "lastSolveTime": 1756480492565
+  },
+  "454": {
+    "teamId": "454",
+    "displayName": "B",
+    "numSolves": 13,
+    "lastSolveTime": 1756823550384
+  },
+  "455": {
+    "teamId": "455",
+    "displayName": "VNX2025",
+    "numSolves": 37,
+    "lastSolveTime": 1757340891148,
+    "isHidden": true
+  },
+  "456": {
+    "teamId": "456",
+    "displayName": "稠环芳烃",
+    "numSolves": 32,
+    "lastSolveTime": 1757369961635
+  },
+  "457": {
+    "teamId": "457",
+    "displayName": "🔥 Firelab 🧪",
+    "numSolves": 1,
+    "lastSolveTime": 1755972734664
+  },
+  "458": {
+    "teamId": "458",
+    "displayName": "The Embarrassment Expansion Draft",
+    "numSolves": 48,
+    "lastSolveTime": 1757181334750,
+    "completionTime": 1757178440833
+  },
+  "459": {
+    "teamId": "459",
+    "displayName": "NDDD",
+    "numSolves": 49,
+    "lastSolveTime": 1757173323867,
+    "completionTime": 1756964512072
+  },
+  "460": {
+    "teamId": "460",
+    "displayName": "Plugh (pronounced “yermom”)",
+    "numSolves": 48,
+    "lastSolveTime": 1757358901615,
+    "completionTime": 1757353628071
+  },
+  "461": {
+    "teamId": "461",
+    "displayName": "Mr Ree Polka (tl)",
+    "numSolves": 23,
+    "lastSolveTime": 1757367153113
+  },
+  "462": {
+    "teamId": "462",
+    "displayName": "More About Vikings",
+    "numSolves": 49,
+    "lastSolveTime": 1756857823845,
+    "completionTime": 1756857442676
+  },
+  "463": {
+    "teamId": "463",
+    "displayName": "inter oves",
+    "numSolves": 47,
+    "lastSolveTime": 1756833277488,
+    "completionTime": 1756806055687
+  },
+  "464": {
+    "teamId": "464",
+    "displayName": "Escape: The Research Center",
+    "numSolves": 6,
+    "lastSolveTime": 1756145002067
+  },
+  "465": {
+    "teamId": "465",
+    "displayName": "Team Nevermore",
+    "numSolves": 8,
+    "lastSolveTime": 1757283075072
+  },
+  "466": {
+    "teamId": "466",
+    "displayName": "BootyButts",
+    "numSolves": 4,
+    "lastSolveTime": 1756004442027
+  },
+  "467": {
+    "teamId": "467",
+    "displayName": "Team T",
+    "numSolves": 4,
+    "lastSolveTime": 1756238060386
+  },
+  "468": {
+    "teamId": "468",
+    "displayName": "Happy Birthday Jimin",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "469": {
+    "teamId": "469",
+    "displayName": "the riddlers",
+    "numSolves": 50,
+    "lastSolveTime": 1757294386248,
+    "completionTime": 1757294092373
+  },
+  "470": {
+    "teamId": "470",
+    "displayName": "TeamPumpkinSquash",
+    "numSolves": 2,
+    "lastSolveTime": 1757205922929
+  },
+  "471": {
+    "teamId": "471",
+    "displayName": "The Hurdlers",
+    "numSolves": 16,
+    "lastSolveTime": 1756782301860
+  },
+  "472": {
+    "teamId": "472",
+    "displayName": "Green Blazers 🍀",
+    "numSolves": 10,
+    "lastSolveTime": 1756100371477
+  },
+  "473": {
+    "teamId": "473",
+    "displayName": "PlanetARIE Spirits Complexity",
+    "numSolves": 21,
+    "lastSolveTime": 1757232173452
+  },
+  "474": {
+    "teamId": "474",
+    "displayName": "moəwmoəw",
+    "numSolves": 5,
+    "lastSolveTime": 1756604073019
+  },
+  "475": {
+    "teamId": "475",
+    "displayName": "olivia!",
+    "numSolves": 0
+  },
+  "476": {
+    "teamId": "476",
+    "displayName": "ScapeGoat",
+    "numSolves": 1,
+    "lastSolveTime": 1756004926263
+  },
+  "477": {
+    "teamId": "477",
+    "displayName": "mokokopium",
+    "numSolves": 4,
+    "lastSolveTime": 1756413481010
+  },
+  "478": {
+    "teamId": "478",
+    "displayName": "G4u",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "479": {
+    "teamId": "479",
+    "displayName": "sheep",
+    "numSolves": 33,
+    "lastSolveTime": 1756853984263
+  },
+  "480": {
+    "teamId": "480",
+    "displayName": "We Believed Her Lies",
+    "numSolves": 48,
+    "lastSolveTime": 1757350910687,
+    "completionTime": 1757302433124
+  },
+  "481": {
+    "teamId": "481",
+    "displayName": "The Triplets",
+    "numSolves": 0
+  },
+  "482": {
+    "teamId": "482",
+    "displayName": "Turboencabulators",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "483": {
+    "teamId": "483",
+    "displayName": "FluffyElephants",
+    "numSolves": 7,
+    "lastSolveTime": 1756350706173
+  },
+  "484": {
+    "teamId": "484",
+    "displayName": "omegawhat",
+    "numSolves": 47,
+    "lastSolveTime": 1757348611863,
+    "completionTime": 1757256188650
+  },
+  "485": {
+    "teamId": "485",
+    "displayName": "Number Go Up",
+    "numSolves": 10,
+    "lastSolveTime": 1756594293412
+  },
+  "486": {
+    "teamId": "486",
+    "displayName": "GPH2025",
+    "numSolves": 0
+  },
+  "487": {
+    "teamId": "487",
+    "displayName": "Cryptic Cracker",
+    "numSolves": 44,
+    "lastSolveTime": 1757341586269,
+    "completionTime": 1757336488896
+  },
+  "488": {
+    "teamId": "488",
+    "displayName": "All Simples",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "489": {
+    "teamId": "489",
+    "displayName": "Saint Pierre & Miquelon",
+    "numSolves": 6,
+    "lastSolveTime": 1757172245759
+  },
+  "490": {
+    "teamId": "490",
+    "displayName": "Kazums",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "491": {
+    "teamId": "491",
+    "displayName": "McDonald’s Delicious",
+    "numSolves": 2,
+    "lastSolveTime": 1756351509810
+  },
+  "492": {
+    "teamId": "492",
+    "displayName": "cp80",
+    "numSolves": 2,
+    "lastSolveTime": 1756176857200
+  },
+  "493": {
+    "teamId": "493",
+    "displayName": "StriketeaMars 🪐",
+    "numSolves": 50,
+    "lastSolveTime": 1756470214954,
+    "completionTime": 1756379417442
+  },
+  "494": {
+    "teamId": "494",
+    "displayName": "Imagine an Excellent Team Name",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "495": {
+    "teamId": "495",
+    "displayName": "Utopia",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "496": {
+    "teamId": "496",
+    "displayName": "Threads!",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "497": {
+    "teamId": "497",
+    "displayName": "队名始终是一个难题",
+    "numSolves": 13,
+    "lastSolveTime": 1756280804841
+  },
+  "498": {
+    "teamId": "498",
+    "displayName": "多看一眼就会爆炸",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "499": {
+    "teamId": "499",
+    "displayName": "HadRum",
+    "numSolves": 11,
+    "lastSolveTime": 1756930462708
+  },
+  "500": {
+    "teamId": "500",
+    "displayName": "ManateeM",
+    "numSolves": 12,
+    "lastSolveTime": 1756513821471
+  },
+  "501": {
+    "teamId": "501",
+    "displayName": "Builders' Guild",
+    "numSolves": 12,
+    "lastSolveTime": 1756909424658
+  },
+  "502": {
+    "teamId": "502",
+    "displayName": "Blue Prince's's's's",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "503": {
+    "teamId": "503",
+    "displayName": "Raccoon Adjacent",
+    "numSolves": 0
+  },
+  "504": {
+    "teamId": "504",
+    "displayName": "ledn",
+    "numSolves": 1,
+    "lastSolveTime": 1756956168778
+  },
+  "505": {
+    "teamId": "505",
+    "displayName": "Sea Lionses",
+    "numSolves": 0
+  },
+  "506": {
+    "teamId": "506",
+    "displayName": "Polina&Nikita",
+    "numSolves": 1,
+    "lastSolveTime": 1756033204590
+  },
+  "507": {
+    "teamId": "507",
+    "displayName": "Vehimagine by John Lennon",
+    "numSolves": 50,
+    "lastSolveTime": 1756620604139,
+    "completionTime": 1756612392632
+  },
+  "508": {
+    "teamId": "508",
+    "displayName": "Solve@NUS",
+    "numSolves": 35,
+    "lastSolveTime": 1757325161037
+  },
+  "509": {
+    "teamId": "509",
+    "displayName": "🍓➡️🐢",
+    "numSolves": 27,
+    "lastSolveTime": 1757359420534
+  },
+  "510": {
+    "teamId": "510",
+    "displayName": "Always Choose Potato",
+    "numSolves": 10,
+    "lastSolveTime": 1756941078278
+  },
+  "511": {
+    "teamId": "511",
+    "displayName": "Chronos",
+    "numSolves": 1,
+    "lastSolveTime": 1756016495133
+  },
+  "512": {
+    "teamId": "512",
+    "displayName": "Churrus",
+    "numSolves": 50,
+    "lastSolveTime": 1757361685289,
+    "completionTime": 1756973163387
+  },
+  "513": {
+    "teamId": "513",
+    "displayName": "Qwerty",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "514": {
+    "teamId": "514",
+    "displayName": "Audio, Video, Disco",
+    "numSolves": 6,
+    "lastSolveTime": 1756164487312
+  },
+  "515": {
+    "teamId": "515",
+    "displayName": "Our whole universe was in a hot, dense state Then nearly fourteen billion years ago, expansion started, wait The Earth began to cool The autotrophs began to drool Neanderthals developed tools",
+    "numSolves": 49,
+    "lastSolveTime": 1756434336173,
+    "completionTime": 1756107731703
+  },
+  "516": {
+    "teamId": "516",
+    "displayName": "The Wob Blizzards 🔮",
+    "numSolves": 46,
+    "lastSolveTime": 1756673422331,
+    "completionTime": 1756672890536
+  },
+  "517": {
+    "teamId": "517",
+    "displayName": "Harvard Orzers",
+    "numSolves": 7,
+    "lastSolveTime": 1756356311147
+  },
+  "518": {
+    "teamId": "518",
+    "displayName": "The Blob Wizards",
+    "numSolves": 50,
+    "lastSolveTime": 1756389674843,
+    "completionTime": 1756327321543
+  },
+  "519": {
+    "teamId": "519",
+    "displayName": "Big Brain Puzzle Dominators",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "520": {
+    "teamId": "520",
+    "displayName": "White Maria",
+    "numSolves": 45,
+    "lastSolveTime": 1756645261949,
+    "completionTime": 1756644968492
+  },
+  "521": {
+    "teamId": "521",
+    "displayName": "UP36",
+    "numSolves": 4,
+    "lastSolveTime": 1756249344102
+  },
+  "522": {
+    "teamId": "522",
+    "displayName": "WTFTadashi",
+    "numSolves": 5,
+    "lastSolveTime": 1757144995814
+  },
+  "523": {
+    "teamId": "523",
+    "displayName": "PERSON NAME OVERWATCH PLAYER COLORFUL DESCRIPTOR ENDEARING MONIKER DUBIOUS ACCOMPLISHMENT ONLINE HANDLE ANIME GIRL #1 FAN + friends",
+    "numSolves": 50,
+    "lastSolveTime": 1757323295585,
+    "completionTime": 1757232247032
+  },
+  "524": {
+    "teamId": "524",
+    "displayName": "Budding Planetary Crusaders",
+    "numSolves": 3,
+    "lastSolveTime": 1756050193511
+  },
+  "525": {
+    "teamId": "525",
+    "displayName": "The Managers",
+    "numSolves": 10,
+    "lastSolveTime": 1756270811339
+  },
+  "526": {
+    "teamId": "526",
+    "displayName": "Just Wes",
+    "numSolves": 4,
+    "lastSolveTime": 1757232315941
+  },
+  "527": {
+    "teamId": "527",
+    "displayName": "Cult of Idiotic Avians",
+    "numSolves": 7,
+    "lastSolveTime": 1756190274784
+  },
+  "528": {
+    "teamId": "528",
+    "displayName": "Galaxy Truffle Hunters",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "529": {
+    "teamId": "529",
+    "displayName": "weeklies.enigmatics.org",
+    "numSolves": 50,
+    "lastSolveTime": 1756424015143,
+    "completionTime": 1756395414876
+  },
+  "530": {
+    "teamId": "530",
+    "displayName": "Xochimilco Chaosolotls",
+    "numSolves": 7,
+    "lastSolveTime": 1757002323221
+  },
+  "531": {
+    "teamId": "531",
+    "displayName": "plughtarsky",
+    "numSolves": 50,
+    "lastSolveTime": 1757297421605,
+    "completionTime": 1756245993357
+  },
+  "532": {
+    "teamId": "532",
+    "displayName": "Nook & Cranny",
+    "numSolves": 16,
+    "lastSolveTime": 1757361089843
+  },
+  "533": {
+    "teamId": "533",
+    "displayName": "Team Venture",
+    "numSolves": 11,
+    "lastSolveTime": 1756094514017,
+    "isHidden": true
+  },
+  "534": {
+    "teamId": "534",
+    "displayName": "Interplanetary Cinematics",
+    "numSolves": 8,
+    "lastSolveTime": 1756687686079
+  },
+  "535": {
+    "teamId": "535",
+    "displayName": "ttbnl-z",
+    "numSolves": 20,
+    "lastSolveTime": 1756427178469
+  },
+  "536": {
+    "teamId": "536",
+    "displayName": "Terran It Up 🌍🆙",
+    "numSolves": 7,
+    "lastSolveTime": 1756509969097
+  },
+  "537": {
+    "teamId": "537",
+    "displayName": "Puzzkill",
+    "numSolves": 48,
+    "lastSolveTime": 1756993566081,
+    "completionTime": 1756962963946
+  },
+  "538": {
+    "teamId": "538",
+    "displayName": "vorpalblade",
+    "numSolves": 4,
+    "lastSolveTime": 1756156455826
+  },
+  "539": {
+    "teamId": "539",
+    "displayName": "The Hunt Slayers",
+    "numSolves": 47,
+    "lastSolveTime": 1757097202122,
+    "completionTime": 1757074745962
+  },
+  "540": {
+    "teamId": "540",
+    "displayName": "The Magpie",
+    "numSolves": 13,
+    "lastSolveTime": 1756657082227
+  },
+  "541": {
+    "teamId": "541",
+    "displayName": "🍕➡️🐀",
+    "numSolves": 12,
+    "lastSolveTime": 1756700924436
+  },
+  "542": {
+    "teamId": "542",
+    "displayName": "🌌🐇🐇🐇🐇🌌",
+    "numSolves": 13,
+    "lastSolveTime": 1756428588827
+  },
+  "543": {
+    "teamId": "543",
+    "displayName": "WOOF BARK",
+    "numSolves": 6,
+    "lastSolveTime": 1756525182448
+  },
+  "544": {
+    "teamId": "544",
+    "displayName": "FandomFreak",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "545": {
+    "teamId": "545",
+    "displayName": "Flora & Order: σβυ",
+    "numSolves": 50,
+    "lastSolveTime": 1756210563441,
+    "completionTime": 1756112587138
+  },
+  "546": {
+    "teamId": "546",
+    "displayName": "puzzles too hard :c",
+    "numSolves": 47,
+    "lastSolveTime": 1756867037981,
+    "completionTime": 1756866734236
+  },
+  "547": {
+    "teamId": "547",
+    "displayName": "1braincell",
+    "numSolves": 5,
+    "lastSolveTime": 1756515895006
+  },
+  "548": {
+    "teamId": "548",
+    "displayName": "Stumped and Furious",
+    "numSolves": 29,
+    "lastSolveTime": 1757350977754
+  },
+  "549": {
+    "teamId": "549",
+    "displayName": "Joat",
+    "numSolves": 26,
+    "lastSolveTime": 1757119287858
+  },
+  "550": {
+    "teamId": "550",
+    "displayName": "Just For The Halibut",
+    "numSolves": 48,
+    "lastSolveTime": 1757293313850,
+    "completionTime": 1757292669534
+  },
+  "551": {
+    "teamId": "551",
+    "displayName": "Iridescent Crystals",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "552": {
+    "teamId": "552",
+    "displayName": "neonoen",
+    "numSolves": 1,
+    "lastSolveTime": 1756196774816
+  },
+  "553": {
+    "teamId": "553",
+    "displayName": "List of earth deities",
+    "numSolves": 47,
+    "lastSolveTime": 1756873677484,
+    "completionTime": 1756868492997
+  },
+  "554": {
+    "teamId": "554",
+    "displayName": "Celestial Puzzling ~ Magical Astronomy",
+    "numSolves": 0
+  },
+  "555": {
+    "teamId": "555",
+    "displayName": "topatropolis",
+    "numSolves": 2,
+    "lastSolveTime": 1755941131977
+  },
+  "556": {
+    "teamId": "556",
+    "displayName": "puzzl puzzl",
+    "numSolves": 11,
+    "lastSolveTime": 1756439629508
+  },
+  "557": {
+    "teamId": "557",
+    "displayName": "bagel",
+    "numSolves": 10,
+    "lastSolveTime": 1756433620111
+  },
+  "558": {
+    "teamId": "558",
+    "displayName": "Beep Boop",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "559": {
+    "teamId": "559",
+    "displayName": "Organic Mathemagicians Inhabit Nascent Orb Using Soil",
+    "numSolves": 50,
+    "lastSolveTime": 1756700041161,
+    "completionTime": 1756640247373
+  },
+  "560": {
+    "teamId": "560",
+    "displayName": "SnapDragon",
+    "numSolves": 30,
+    "lastSolveTime": 1757367914122
+  },
+  "561": {
+    "teamId": "561",
+    "displayName": "JEMZ",
+    "numSolves": 7,
+    "lastSolveTime": 1756642262395
+  },
+  "562": {
+    "teamId": "562",
+    "displayName": "RazzleSazzle",
+    "numSolves": 6,
+    "lastSolveTime": 1756526963897
+  },
+  "563": {
+    "teamId": "563",
+    "displayName": "Shifty Pangea",
+    "numSolves": 4,
+    "lastSolveTime": 1756130097251
+  },
+  "564": {
+    "teamId": "564",
+    "displayName": "cj",
+    "numSolves": 0,
+    "isHidden": true
+  },
+  "565": {
+    "teamId": "565",
+    "displayName": "The Eric Madams",
+    "numSolves": 5,
+    "lastSolveTime": 1756696412189
+  },
+  "566": {
+    "teamId": "566",
+    "displayName": "Nature-Employed Spirits",
+    "numSolves": 50,
+    "lastSolveTime": 1756168546587,
+    "completionTime": 1756168291812
+  },
+  "567": {
+    "teamId": "567",
+    "displayName": "Astronomically Talented Mathemagicians Optimally Solving Puzzles, Healing Earth's Raucous Energy",
+    "numSolves": 50,
+    "lastSolveTime": 1757343026017,
+    "completionTime": 1757328029160
+  },
+  "568": {
+    "teamId": "568",
+    "displayName": "10,000 onions",
+    "numSolves": 8,
+    "lastSolveTime": 1756546373659
+  },
+  "569": {
+    "teamId": "569",
+    "displayName": "123",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "570": {
+    "teamId": "570",
+    "displayName": "wahoo!",
+    "numSolves": 14,
+    "lastSolveTime": 1756101669668
+  },
+  "571": {
+    "teamId": "571",
+    "displayName": "RatoLibre 🐘🐘🐘",
+    "numSolves": 2,
+    "lastSolveTime": 1756005362938
+  },
+  "572": {
+    "teamId": "572",
+    "displayName": "teehee!",
+    "numSolves": 48,
+    "lastSolveTime": 1756598150972,
+    "completionTime": 1756588536038
+  },
+  "573": {
+    "teamId": "573",
+    "displayName": "nescafe",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "574": {
+    "teamId": "574",
+    "displayName": "LUNELAPI",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "575": {
+    "teamId": "575",
+    "displayName": "Gray Ducks",
+    "numSolves": 7,
+    "lastSolveTime": 1757215880118
+  },
+  "576": {
+    "teamId": "576",
+    "displayName": "Literally Laurasia",
+    "numSolves": 49,
+    "lastSolveTime": 1756768719648,
+    "completionTime": 1756768294887
+  },
+  "577": {
+    "teamId": "577",
+    "displayName": "Fresh",
+    "numSolves": 5,
+    "lastSolveTime": 1756097409233
+  },
+  "578": {
+    "teamId": "578",
+    "displayName": "Boardwalk Games",
+    "numSolves": 4,
+    "lastSolveTime": 1756432495208
+  },
+  "579": {
+    "teamId": "579",
+    "displayName": "A Mad Rain",
+    "numSolves": 4,
+    "lastSolveTime": 1756068608181
+  },
+  "580": {
+    "teamId": "580",
+    "displayName": "oranger",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "581": {
+    "teamId": "581",
+    "displayName": "newsouthwhales",
+    "numSolves": 7,
+    "lastSolveTime": 1756615508169
+  },
+  "582": {
+    "teamId": "582",
+    "displayName": "😯🙌🏻👾🤖🤸‍♂️👺🌠🤲👻🖐️🛸😃",
+    "numSolves": 19,
+    "lastSolveTime": 1756481762882
+  },
+  "583": {
+    "teamId": "583",
+    "displayName": "one lift enjoyers",
+    "numSolves": 6,
+    "lastSolveTime": 1756209243986
+  },
+  "584": {
+    "teamId": "584",
+    "displayName": "枕寒流",
+    "numSolves": 3,
+    "lastSolveTime": 1756444503095
+  },
+  "585": {
+    "teamId": "585",
+    "displayName": "Empanada Mama",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "586": {
+    "teamId": "586",
+    "displayName": "Terrestrial Species Being Invented",
+    "numSolves": 50,
+    "lastSolveTime": 1756179352829,
+    "completionTime": 1756169526285
+  },
+  "587": {
+    "teamId": "587",
+    "displayName": "Blue Rocks",
+    "numSolves": 13,
+    "lastSolveTime": 1756789192708
+  },
+  "588": {
+    "teamId": "588",
+    "displayName": "🌮🌮taquito",
+    "numSolves": 26,
+    "lastSolveTime": 1756598873930
+  },
+  "589": {
+    "teamId": "589",
+    "displayName": "String Cheese Theory",
+    "numSolves": 44,
+    "lastSolveTime": 1757368338370,
+    "completionTime": 1757368257850
+  },
+  "590": {
+    "teamId": "590",
+    "displayName": "Bored Gamers",
+    "numSolves": 4,
+    "lastSolveTime": 1756266630843
+  },
+  "591": {
+    "teamId": "591",
+    "displayName": "Capybara Collective",
+    "numSolves": 15,
+    "lastSolveTime": 1756626164894
+  },
+  "592": {
+    "teamId": "592",
+    "displayName": "Cpsurv",
+    "numSolves": 14,
+    "lastSolveTime": 1756249627936
+  },
+  "593": {
+    "teamId": "593",
+    "displayName": "Lone Ranger",
+    "numSolves": 4,
+    "lastSolveTime": 1756167926553
+  },
+  "594": {
+    "teamId": "594",
+    "displayName": "Puzz Lightyear",
+    "numSolves": 1,
+    "lastSolveTime": 1756107709870
+  },
+  "595": {
+    "teamId": "595",
+    "displayName": "Tiger",
+    "numSolves": 2,
+    "lastSolveTime": 1756536894787
+  },
+  "596": {
+    "teamId": "596",
+    "displayName": "Sunflower",
+    "numSolves": 1,
+    "lastSolveTime": 1756321725569
+  },
+  "597": {
+    "teamId": "597",
+    "displayName": "ShigureSeisou",
+    "numSolves": 20,
+    "lastSolveTime": 1757334784405
+  },
+  "598": {
+    "teamId": "598",
+    "displayName": "fried chickens",
+    "numSolves": 12,
+    "lastSolveTime": 1757309761755
+  },
+  "599": {
+    "teamId": "599",
+    "displayName": "BABA and GOAT solve HUNT",
+    "numSolves": 14,
+    "lastSolveTime": 1757275060403
+  },
+  "600": {
+    "teamId": "600",
+    "displayName": "Fresh Mustard",
+    "numSolves": 1,
+    "lastSolveTime": 1756089526562
+  },
+  "601": {
+    "teamId": "601",
+    "displayName": "TooKlyKly",
+    "numSolves": 1,
+    "lastSolveTime": 1755968016236
+  },
+  "602": {
+    "teamId": "602",
+    "displayName": "Wanderer Butterflies 🦋",
+    "numSolves": 12,
+    "lastSolveTime": 1756466756949
+  },
+  "603": {
+    "teamId": "603",
+    "displayName": "他山之石可以攻玉",
+    "numSolves": 40,
+    "lastSolveTime": 1757358401107
+  },
+  "604": {
+    "teamId": "604",
+    "displayName": "house of diamonds",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "605": {
+    "teamId": "605",
+    "displayName": "SECOvO",
+    "numSolves": 46,
+    "lastSolveTime": 1757131969221,
+    "completionTime": 1757094699504
+  },
+  "606": {
+    "teamId": "606",
+    "displayName": "🐧🐧🦆🦆",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "607": {
+    "teamId": "607",
+    "displayName": "Glass Cracks",
+    "numSolves": 8,
+    "lastSolveTime": 1757296895966
+  },
+  "608": {
+    "teamId": "608",
+    "displayName": "Vehemitochondria - the puzzle hunt of the cell",
+    "numSolves": 24,
+    "lastSolveTime": 1756431259512
+  },
+  "609": {
+    "teamId": "609",
+    "displayName": "Severely Overcooked",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "610": {
+    "teamId": "610",
+    "displayName": "Faux Oiseaux",
+    "numSolves": 2,
+    "lastSolveTime": 1756479970540
+  },
+  "611": {
+    "teamId": "611",
+    "displayName": "puzzle gamign",
+    "numSolves": 0
+  },
+  "612": {
+    "teamId": "612",
+    "displayName": "Imagine Dragons",
+    "numSolves": 0
+  },
+  "613": {
+    "teamId": "613",
+    "displayName": "Mathemagicians Offer To Help Ecological Research, Expecting Adapted Responses To Habitat",
+    "numSolves": 49,
+    "lastSolveTime": 1756859369019,
+    "completionTime": 1756858970586
+  },
+  "614": {
+    "teamId": "614",
+    "displayName": "Vehem-I'd like to make myself believe that planet Earth turns slowly",
+    "numSolves": 50,
+    "lastSolveTime": 1757011100418,
+    "completionTime": 1756476149125
+  },
+  "615": {
+    "teamId": "615",
+    "displayName": "Chicken & ROFLs",
+    "numSolves": 21,
+    "lastSolveTime": 1756970920973
+  },
+  "616": {
+    "teamId": "616",
+    "displayName": "Renaissance",
+    "numSolves": 13,
+    "lastSolveTime": 1756522552514
+  },
+  "617": {
+    "teamId": "617",
+    "displayName": "24601",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "618": {
+    "teamId": "618",
+    "displayName": "Lavosh mysteryuri corn thins (7)",
+    "numSolves": 9,
+    "lastSolveTime": 1756863862811
+  },
+  "619": {
+    "teamId": "619",
+    "displayName": "ali1234",
+    "numSolves": 23,
+    "lastSolveTime": 1757366575088
+  },
+  "620": {
+    "teamId": "620",
+    "displayName": "Non-sightseeing Team",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "621": {
+    "teamId": "621",
+    "displayName": "DAVIDU",
+    "numSolves": 7,
+    "lastSolveTime": 1756532887288
+  },
+  "622": {
+    "teamId": "622",
+    "displayName": "飞鱼",
+    "numSolves": 1,
+    "lastSolveTime": 1756046704913
+  },
+  "623": {
+    "teamId": "623",
+    "displayName": "Puzzlesleeper",
+    "numSolves": 4,
+    "lastSolveTime": 1756988078438
+  },
+  "624": {
+    "teamId": "624",
+    "displayName": "To3kin-croAks",
+    "numSolves": 4,
+    "lastSolveTime": 1756186320723
+  },
+  "625": {
+    "teamId": "625",
+    "displayName": "IWFans",
+    "numSolves": 15,
+    "lastSolveTime": 1757327078020
+  },
+  "626": {
+    "teamId": "626",
+    "displayName": "day in day out",
+    "numSolves": 2,
+    "lastSolveTime": 1756199110700
+  },
+  "627": {
+    "teamId": "627",
+    "displayName": "The Ptros",
+    "numSolves": 10,
+    "lastSolveTime": 1757016326325
+  },
+  "628": {
+    "teamId": "628",
+    "displayName": "Only register for fun, and will not finish any puzzle",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "629": {
+    "teamId": "629",
+    "displayName": "The C@r@line Syzygy",
+    "numSolves": 49,
+    "lastSolveTime": 1756134720713,
+    "completionTime": 1756134370656
+  },
+  "630": {
+    "teamId": "630",
+    "displayName": "[EARTH-SHATTERING] EARTH EARTH-SHATTERINGLY SHATTERING",
+    "numSolves": 50,
+    "lastSolveTime": 1756810487542,
+    "completionTime": 1756634822095
+  },
+  "631": {
+    "teamId": "631",
+    "displayName": "Molar Dilemma",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "632": {
+    "teamId": "632",
+    "displayName": "tag yourself, i'm antartica",
+    "numSolves": 50,
+    "lastSolveTime": 1756027651175,
+    "completionTime": 1756027367223
+  },
+  "633": {
+    "teamId": "633",
+    "displayName": "NobodyThere",
+    "numSolves": 0,
+    "lastSolveTime": 0,
+    "isHidden": true
+  },
+  "634": {
+    "teamId": "634",
+    "displayName": "Team Marple (thinking of an alternative very loudly)",
+    "numSolves": 3,
+    "lastSolveTime": 1756035000268
+  },
+  "635": {
+    "teamId": "635",
+    "displayName": "Dubbas",
+    "numSolves": 6,
+    "lastSolveTime": 1756404569119
+  },
+  "636": {
+    "teamId": "636",
+    "displayName": "cat",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "637": {
+    "teamId": "637",
+    "displayName": "stepbean",
+    "numSolves": 7,
+    "lastSolveTime": 1756490201452
+  },
+  "638": {
+    "teamId": "638",
+    "displayName": "Jeanne et Robine",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "639": {
+    "teamId": "639",
+    "displayName": "砂比喵星好圆",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "640": {
+    "teamId": "640",
+    "displayName": "SF Puzzlers",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "641": {
+    "teamId": "641",
+    "displayName": "Spots & Slots",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "642": {
+    "teamId": "642",
+    "displayName": "STAR",
+    "numSolves": 1,
+    "lastSolveTime": 1756148848904
+  },
+  "643": {
+    "teamId": "643",
+    "displayName": "The Grazlers",
+    "numSolves": 1,
+    "lastSolveTime": 1756032859626
+  },
+  "644": {
+    "teamId": "644",
+    "displayName": "Kaz's Bagels",
+    "numSolves": 0
+  },
+  "645": {
+    "teamId": "645",
+    "displayName": "Milky Way",
+    "numSolves": 11,
+    "lastSolveTime": 1756366701919
+  },
+  "646": {
+    "teamId": "646",
+    "displayName": "π-nuts",
+    "numSolves": 21,
+    "lastSolveTime": 1757232188555
+  },
+  "647": {
+    "teamId": "647",
+    "displayName": "For Elise",
+    "numSolves": 0
+  },
+  "648": {
+    "teamId": "648",
+    "displayName": "Jeremy for the obvious reasons",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "649": {
+    "teamId": "649",
+    "displayName": "Lobsters",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "650": {
+    "teamId": "650",
+    "displayName": "Phoenician's Eleven",
+    "numSolves": 7,
+    "lastSolveTime": 1757021610833
+  },
+  "651": {
+    "teamId": "651",
+    "displayName": "Mathemagicians Unleash Limitless Technological Innovation, Chaperone Embryonic Land, Lead Unprecedented Landscaping: Advancing Rock Lobster Yields!",
+    "numSolves": 48,
+    "lastSolveTime": 1756811886337,
+    "completionTime": 1756811403414
+  },
+  "652": {
+    "teamId": "652",
+    "displayName": "Department of Cogitation and Puzzlement",
+    "numSolves": 12,
+    "lastSolveTime": 1756969475653
+  },
+  "653": {
+    "teamId": "653",
+    "displayName": "1e308",
+    "numSolves": 46,
+    "lastSolveTime": 1756479375739,
+    "completionTime": 1756479041739
+  },
+  "654": {
+    "teamId": "654",
+    "displayName": "Another Day Another Podzol",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "655": {
+    "teamId": "655",
+    "displayName": "Lo4fs",
+    "numSolves": 5,
+    "lastSolveTime": 1756550031969
+  },
+  "656": {
+    "teamId": "656",
+    "displayName": "Terraforming Mars, PA",
+    "numSolves": 10,
+    "lastSolveTime": 1756408284434
+  },
+  "657": {
+    "teamId": "657",
+    "displayName": "...and in studying you must have learned to suspect FAIR PLAY so you would have put the puzzle as far from yourself as possible, so I can clearly not choose the answer in front of me!",
+    "numSolves": 29,
+    "lastSolveTime": 1757364713317
+  },
+  "658": {
+    "teamId": "658",
+    "displayName": "Returnees",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "659": {
+    "teamId": "659",
+    "displayName": "Ecological Celestials of r/PictureGame",
+    "numSolves": 49,
+    "lastSolveTime": 1756161753547,
+    "completionTime": 1756161208018
+  },
+  "660": {
+    "teamId": "660",
+    "displayName": "Generic ORG Alliance Name",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "661": {
+    "teamId": "661",
+    "displayName": "Have You Tried Drinking More Milk?",
+    "numSolves": 47,
+    "lastSolveTime": 1756780094149,
+    "completionTime": 1756775683369
+  },
+  "662": {
+    "teamId": "662",
+    "displayName": "manba",
+    "numSolves": 0
+  },
+  "663": {
+    "teamId": "663",
+    "displayName": "BadWolf",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "664": {
+    "teamId": "664",
+    "displayName": "Is Mayonnaise An Instrument?",
+    "numSolves": 4,
+    "lastSolveTime": 1756692445642
+  },
+  "665": {
+    "teamId": "665",
+    "displayName": "Disaster Avoidance Novices",
+    "numSolves": 48,
+    "lastSolveTime": 1757060831337,
+    "completionTime": 1757007777954
+  },
+  "666": {
+    "teamId": "666",
+    "displayName": "shrimps",
+    "numSolves": 4,
+    "lastSolveTime": 1756751373825
+  },
+  "667": {
+    "teamId": "667",
+    "displayName": "stitch in time",
+    "numSolves": 4,
+    "lastSolveTime": 1756057133048
+  },
+  "668": {
+    "teamId": "668",
+    "displayName": "body_screaming_dolo",
+    "numSolves": 16,
+    "lastSolveTime": 1757301403955
+  },
+  "669": {
+    "teamId": "669",
+    "displayName": "Literally Gondwana",
+    "numSolves": 39,
+    "lastSolveTime": 1757301644322
+  },
+  "670": {
+    "teamId": "670",
+    "displayName": "Aurune",
+    "numSolves": 1,
+    "lastSolveTime": 1755999087861
+  },
+  "671": {
+    "teamId": "671",
+    "displayName": "Dora's Dutch Backpack",
+    "numSolves": 14,
+    "lastSolveTime": 1757332030572
+  },
+  "672": {
+    "teamId": "672",
+    "displayName": "Aergia",
+    "numSolves": 8,
+    "lastSolveTime": 1757190442099
+  },
+  "673": {
+    "teamId": "673",
+    "displayName": "⏚ MISCELLANEOUS TECHNICAL NOT ANYMORE THERE'S A BLANKET",
+    "numSolves": 49,
+    "lastSolveTime": 1756272169449,
+    "completionTime": 1756271231849
+  },
+  "674": {
+    "teamId": "674",
+    "displayName": "ϙ GREEK LETTER THE SUN IS A DEADLY LAZER",
+    "numSolves": 50,
+    "lastSolveTime": 1756043663727,
+    "completionTime": 1756042509083
+  },
+  "675": {
+    "teamId": "675",
+    "displayName": "an unfinished let's play series",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "676": {
+    "teamId": "676",
+    "displayName": "The Roundabout Way",
+    "numSolves": 4,
+    "lastSolveTime": 1756523349732
+  },
+  "677": {
+    "teamId": "677",
+    "displayName": "Excessive Congers of r/PictureGame",
+    "numSolves": 50,
+    "lastSolveTime": 1756641685115,
+    "completionTime": 1756594405117
+  },
+  "678": {
+    "teamId": "678",
+    "displayName": "TErra firMA",
+    "numSolves": 49,
+    "lastSolveTime": 1756445164883,
+    "completionTime": 1756441927149
+  },
+  "679": {
+    "teamId": "679",
+    "displayName": "Novel Hub",
+    "numSolves": 43,
+    "lastSolveTime": 1756880201347,
+    "completionTime": 1756880043800
+  },
+  "680": {
+    "teamId": "680",
+    "displayName": "tsunami flowerpot",
+    "numSolves": 21,
+    "lastSolveTime": 1756797895458
+  },
+  "681": {
+    "teamId": "681",
+    "displayName": "FAUdacious",
+    "numSolves": 24,
+    "lastSolveTime": 1757194896798
+  },
+  "682": {
+    "teamId": "682",
+    "displayName": "Gru's Little Minions",
+    "numSolves": 1,
+    "lastSolveTime": 1756080386849
+  },
+  "683": {
+    "teamId": "683",
+    "displayName": "Team Eagle Time",
+    "numSolves": 50,
+    "lastSolveTime": 1757368232424,
+    "completionTime": 1757116297088
+  },
+  "684": {
+    "teamId": "684",
+    "displayName": "Gunsparce",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "685": {
+    "teamId": "685",
+    "displayName": "bober_team",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "686": {
+    "teamId": "686",
+    "displayName": "Alisshunt",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "687": {
+    "teamId": "687",
+    "displayName": "Pan Asssigns Newly-formed Gaia As Earth's Attendant, Unfortunately Lunacy's Threatened. Invoking Mathemagicians Advised",
+    "numSolves": 50,
+    "lastSolveTime": 1756214768847,
+    "completionTime": 1756066164182
+  },
+  "688": {
+    "teamId": "688",
+    "displayName": "Patient Shaper of Stone, Clay, Soil, Etc.",
+    "numSolves": 50,
+    "lastSolveTime": 1756091945231,
+    "completionTime": 1756017538890
+  },
+  "689": {
+    "teamId": "689",
+    "displayName": "Rescue Into the Fire",
+    "numSolves": 22,
+    "lastSolveTime": 1756513687473
+  },
+  "690": {
+    "teamId": "690",
+    "displayName": "transgenders et al.",
+    "numSolves": 4,
+    "lastSolveTime": 1756081227505
+  },
+  "691": {
+    "teamId": "691",
+    "displayName": "planETMAxxers",
+    "numSolves": 50,
+    "lastSolveTime": 1756242554325,
+    "completionTime": 1756140891675
+  },
+  "692": {
+    "teamId": "692",
+    "displayName": "Terran Spheere Becomes Inviting",
+    "numSolves": 43,
+    "lastSolveTime": 1757368467085,
+    "completionTime": 1757368166142
+  },
+  "693": {
+    "teamId": "693",
+    "displayName": "Bavarian Meatheads... The More You Know",
+    "numSolves": 8,
+    "lastSolveTime": 1756696919719
+  },
+  "694": {
+    "teamId": "694",
+    "displayName": "Probably Can't Do This Year's",
+    "numSolves": 1,
+    "lastSolveTime": 1756194605569
+  },
+  "695": {
+    "teamId": "695",
+    "displayName": "Herring Bones 🎏",
+    "numSolves": 50,
+    "lastSolveTime": 1756951512586,
+    "completionTime": 1756166995525
+  },
+  "696": {
+    "teamId": "696",
+    "displayName": "Pepsimen",
+    "numSolves": 11,
+    "lastSolveTime": 1756986549105
+  },
+  "697": {
+    "teamId": "697",
+    "displayName": "Singles Ready to Stay Inside",
+    "numSolves": 21,
+    "lastSolveTime": 1756613724002
+  },
+  "698": {
+    "teamId": "698",
+    "displayName": "ijustwannatrythisformyselfidontwantateam",
+    "numSolves": 0
+  },
+  "699": {
+    "teamId": "699",
+    "displayName": "Me, Myself and I",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "700": {
+    "teamId": "700",
+    "displayName": "p squad",
+    "numSolves": 43,
+    "lastSolveTime": 1756442245687,
+    "completionTime": 1756441714738
+  },
+  "701": {
+    "teamId": "701",
+    "displayName": "KEKW",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "702": {
+    "teamId": "702",
+    "displayName": "[redactn't]",
+    "numSolves": 35,
+    "lastSolveTime": 1757107674735
+  },
+  "703": {
+    "teamId": "703",
+    "displayName": "S.S. Trixie Fig",
+    "numSolves": 8,
+    "lastSolveTime": 1756768393066
+  },
+  "704": {
+    "teamId": "704",
+    "displayName": "The Couch",
+    "numSolves": 11,
+    "lastSolveTime": 1756273430590
+  },
+  "705": {
+    "teamId": "705",
+    "displayName": "kal",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "706": {
+    "teamId": "706",
+    "displayName": "FrackBomb",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "707": {
+    "teamId": "707",
+    "displayName": "Sherlocked and Loaded",
+    "numSolves": 2,
+    "lastSolveTime": 1756153824085
+  },
+  "708": {
+    "teamId": "708",
+    "displayName": "Misremembered Apple",
+    "numSolves": 6,
+    "lastSolveTime": 1756129509678
+  },
+  "709": {
+    "teamId": "709",
+    "displayName": "Married Admirer",
+    "numSolves": 20,
+    "lastSolveTime": 1756816759997
+  },
+  "710": {
+    "teamId": "710",
+    "displayName": "awdc",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "711": {
+    "teamId": "711",
+    "displayName": "braydenbaker",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "712": {
+    "teamId": "712",
+    "displayName": "Renovating Terra, New Planet",
+    "numSolves": 33,
+    "lastSolveTime": 1757323185279
+  },
+  "713": {
+    "teamId": "713",
+    "displayName": "gravel",
+    "numSolves": 13,
+    "lastSolveTime": 1756169076543,
+    "isHidden": true
+  },
+  "714": {
+    "teamId": "714",
+    "displayName": "confused",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "715": {
+    "teamId": "715",
+    "displayName": "SugandaFC",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "716": {
+    "teamId": "716",
+    "displayName": "priMA TErra",
+    "numSolves": 50,
+    "lastSolveTime": 1756521585842,
+    "completionTime": 1756521344457
+  },
+  "717": {
+    "teamId": "717",
+    "displayName": "Initializing Over Hoagiecon",
+    "numSolves": 47,
+    "lastSolveTime": 1756708462330,
+    "completionTime": 1756707948516
+  },
+  "718": {
+    "teamId": "718",
+    "displayName": "Burgy",
+    "numSolves": 17,
+    "lastSolveTime": 1756668292054
+  },
+  "719": {
+    "teamId": "719",
+    "displayName": "Terraforming Storage",
+    "numSolves": 13,
+    "lastSolveTime": 1756788082715
+  },
+  "720": {
+    "teamId": "720",
+    "displayName": "Needlessly Eating Schist",
+    "numSolves": 50,
+    "lastSolveTime": 1756433279132,
+    "completionTime": 1756430652817
+  },
+  "721": {
+    "teamId": "721",
+    "displayName": "17th new family of beetles brought into existenc",
+    "numSolves": 50,
+    "lastSolveTime": 1756519967164,
+    "completionTime": 1756338715265
+  },
+  "722": {
+    "teamId": "722",
+    "displayName": "Two Way Street",
+    "numSolves": 0
+  },
+  "723": {
+    "teamId": "723",
+    "displayName": "Climactic Muzzle Grunt",
+    "numSolves": 2,
+    "lastSolveTime": 1756099674843
+  },
+  "724": {
+    "teamId": "724",
+    "displayName": "88209 88209",
+    "numSolves": 16,
+    "lastSolveTime": 1757182194436
+  },
+  "725": {
+    "teamId": "725",
+    "displayName": "The Puzzledome",
+    "numSolves": 17,
+    "lastSolveTime": 1756599538420
+  },
+  "726": {
+    "teamId": "726",
+    "displayName": "Pangaea2025",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "727": {
+    "teamId": "727",
+    "displayName": "SD29",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "728": {
+    "teamId": "728",
+    "displayName": "Nulliphi",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "729": {
+    "teamId": "729",
+    "displayName": "jujube",
+    "numSolves": 7,
+    "lastSolveTime": 1756111232264
+  },
+  "730": {
+    "teamId": "730",
+    "displayName": "hizami",
+    "numSolves": 2,
+    "lastSolveTime": 1756170815414
+  },
+  "731": {
+    "teamId": "731",
+    "displayName": "Team Avatar",
+    "numSolves": 12,
+    "lastSolveTime": 1756693539916
+  },
+  "732": {
+    "teamId": "732",
+    "displayName": "titrok",
+    "numSolves": 4,
+    "lastSolveTime": 1756238111361
+  },
+  "733": {
+    "teamId": "733",
+    "displayName": "Cucurbitales",
+    "numSolves": 1,
+    "lastSolveTime": 1755926334632
+  },
+  "734": {
+    "teamId": "734",
+    "displayName": "Orb Of Friends",
+    "numSolves": 6,
+    "lastSolveTime": 1756952403593
+  },
+  "735": {
+    "teamId": "735",
+    "displayName": "solonius monk",
+    "numSolves": 12,
+    "lastSolveTime": 1755997163106
+  },
+  "736": {
+    "teamId": "736",
+    "displayName": "Bail",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "737": {
+    "teamId": "737",
+    "displayName": "The 51st State",
+    "numSolves": 2,
+    "lastSolveTime": 1755972019758
+  },
+  "738": {
+    "teamId": "738",
+    "displayName": "tester123",
+    "numSolves": 10,
+    "lastSolveTime": 1756199634002,
+    "isHidden": true
+  },
+  "739": {
+    "teamId": "739",
+    "displayName": "Corgi Party Puzzle Posse",
+    "numSolves": 7,
+    "lastSolveTime": 1756619315407
+  },
+  "740": {
+    "teamId": "740",
+    "displayName": "Woah",
+    "numSolves": 0
+  },
+  "741": {
+    "teamId": "741",
+    "displayName": "Helllllo",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "742": {
+    "teamId": "742",
+    "displayName": "DragonEngineer",
+    "numSolves": 49,
+    "lastSolveTime": 1757291628743,
+    "completionTime": 1757255670192
+  },
+  "743": {
+    "teamId": "743",
+    "displayName": "Shricubed",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "744": {
+    "teamId": "744",
+    "displayName": "1cool3me",
+    "numSolves": 10,
+    "lastSolveTime": 1756085516717
+  },
+  "745": {
+    "teamId": "745",
+    "displayName": "Escape the Puzzles",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "746": {
+    "teamId": "746",
+    "displayName": "yeom dummies",
+    "numSolves": 8,
+    "lastSolveTime": 1756353616318
+  },
+  "747": {
+    "teamId": "747",
+    "displayName": "Mortal Wombats",
+    "numSolves": 9,
+    "lastSolveTime": 1756521050733
+  },
+  "748": {
+    "teamId": "748",
+    "displayName": "Anon",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "749": {
+    "teamId": "749",
+    "displayName": "Magitek Squad",
+    "numSolves": 11,
+    "lastSolveTime": 1756428741837
+  },
+  "750": {
+    "teamId": "750",
+    "displayName": "The Spiral Tower",
+    "numSolves": 4,
+    "lastSolveTime": 1755950679005
+  },
+  "751": {
+    "teamId": "751",
+    "displayName": "caffiends",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "752": {
+    "teamId": "752",
+    "displayName": "Unnamed Team",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "753": {
+    "teamId": "753",
+    "displayName": "kd lang",
+    "numSolves": 3,
+    "lastSolveTime": 1756073777008
+  },
+  "754": {
+    "teamId": "754",
+    "displayName": "GOURDitas",
+    "numSolves": 13,
+    "lastSolveTime": 1756239967274
+  },
+  "755": {
+    "teamId": "755",
+    "displayName": "jasmine",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "756": {
+    "teamId": "756",
+    "displayName": "Turtwig",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "757": {
+    "teamId": "757",
+    "displayName": "Belles Femmes et al.",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "758": {
+    "teamId": "758",
+    "displayName": "guiles per hour",
+    "numSolves": 4,
+    "lastSolveTime": 1756017442838
+  },
+  "759": {
+    "teamId": "759",
+    "displayName": "abcd",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "760": {
+    "teamId": "760",
+    "displayName": "The Whole General Sort of Mish Mods",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "761": {
+    "teamId": "761",
+    "displayName": "Cyrentiaxphts",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "762": {
+    "teamId": "762",
+    "displayName": "dooooooooomsaay",
+    "numSolves": 11,
+    "lastSolveTime": 1757306152977
+  },
+  "763": {
+    "teamId": "763",
+    "displayName": "MDSCers",
+    "numSolves": 20,
+    "lastSolveTime": 1757328112514
+  },
+  "764": {
+    "teamId": "764",
+    "displayName": "wolmao",
+    "numSolves": 1,
+    "lastSolveTime": 1756071182042
+  },
+  "765": {
+    "teamId": "765",
+    "displayName": "KatelynDelta",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "766": {
+    "teamId": "766",
+    "displayName": "mygygy@recaptcha failed",
+    "numSolves": 1,
+    "lastSolveTime": 1755991335222
+  },
+  "767": {
+    "teamId": "767",
+    "displayName": "Morcello's Traveling Circus",
+    "numSolves": 4,
+    "lastSolveTime": 1756684115325
+  },
+  "768": {
+    "teamId": "768",
+    "displayName": "Orb Ponderers",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "769": {
+    "teamId": "769",
+    "displayName": "jiak.png",
+    "numSolves": 7,
+    "lastSolveTime": 1756768287246
+  },
+  "770": {
+    "teamId": "770",
+    "displayName": "huayue",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "771": {
+    "teamId": "771",
+    "displayName": "acbd",
+    "numSolves": 12,
+    "lastSolveTime": 1757368156439
+  },
+  "772": {
+    "teamId": "772",
+    "displayName": "Unencrypted",
+    "numSolves": 30,
+    "lastSolveTime": 1757053251773
+  },
+  "773": {
+    "teamId": "773",
+    "displayName": "chriss",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "774": {
+    "teamId": "774",
+    "displayName": "Cascading Monkeys Unleashed",
+    "numSolves": 14,
+    "lastSolveTime": 1756908773871
+  },
+  "775": {
+    "teamId": "775",
+    "displayName": "Me, Myself, and  I",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "776": {
+    "teamId": "776",
+    "displayName": "JTclubTourist",
+    "numSolves": 1,
+    "lastSolveTime": 1756012096219
+  },
+  "777": {
+    "teamId": "777",
+    "displayName": "FunkyRat",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "778": {
+    "teamId": "778",
+    "displayName": "kgwndjsr",
+    "numSolves": 1,
+    "lastSolveTime": 1756378655615
+  },
+  "779": {
+    "teamId": "779",
+    "displayName": "The Last Piping Plovers at Montrose Beach",
+    "numSolves": 9,
+    "lastSolveTime": 1757362046934
+  },
+  "780": {
+    "teamId": "780",
+    "displayName": "fragrant and fragile fruitcakes",
+    "numSolves": 11,
+    "lastSolveTime": 1757254410518
+  },
+  "781": {
+    "teamId": "781",
+    "displayName": "めしつかい",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "782": {
+    "teamId": "782",
+    "displayName": "birdgang",
+    "numSolves": 6,
+    "lastSolveTime": 1756936468476
+  },
+  "783": {
+    "teamId": "783",
+    "displayName": "SpaceRakun",
+    "numSolves": 1,
+    "lastSolveTime": 1755931081856
+  },
+  "784": {
+    "teamId": "784",
+    "displayName": "BS",
+    "numSolves": 1,
+    "lastSolveTime": 1756064515605
+  },
+  "785": {
+    "teamId": "785",
+    "displayName": "I have an idea what i'm doing",
+    "numSolves": 2,
+    "lastSolveTime": 1756216763454
+  },
+  "786": {
+    "teamId": "786",
+    "displayName": "zinkosstan",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "787": {
+    "teamId": "787",
+    "displayName": "K2I",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "788": {
+    "teamId": "788",
+    "displayName": "Arid sun bath",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "789": {
+    "teamId": "789",
+    "displayName": "SoloSleuth",
+    "numSolves": 4,
+    "lastSolveTime": 1756013823970
+  },
+  "790": {
+    "teamId": "790",
+    "displayName": "The Lunaaans",
+    "numSolves": 11,
+    "lastSolveTime": 1756335270172
+  },
+  "791": {
+    "teamId": "791",
+    "displayName": "SolidGoldMagikarp",
+    "numSolves": 5,
+    "lastSolveTime": 1755999790559
+  },
+  "792": {
+    "teamId": "792",
+    "displayName": "🍀🦆 luckyducky 🦆🍀",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "793": {
+    "teamId": "793",
+    "displayName": "freaky golem",
+    "numSolves": 9,
+    "lastSolveTime": 1756317400082
+  },
+  "794": {
+    "teamId": "794",
+    "displayName": "BestBeans",
+    "numSolves": 21,
+    "lastSolveTime": 1756606198302
+  },
+  "795": {
+    "teamId": "795",
+    "displayName": "Competitively Inconsistent",
+    "numSolves": 1,
+    "lastSolveTime": 1756099145725
+  },
+  "796": {
+    "teamId": "796",
+    "displayName": "Team soothing",
+    "numSolves": 0
+  },
+  "797": {
+    "teamId": "797",
+    "displayName": "InuInu",
+    "numSolves": 2,
+    "lastSolveTime": 1756087700791
+  },
+  "798": {
+    "teamId": "798",
+    "displayName": "uj1uj1",
+    "numSolves": 0
+  },
+  "799": {
+    "teamId": "799",
+    "displayName": "think",
+    "numSolves": 0
+  },
+  "800": {
+    "teamId": "800",
+    "displayName": "wyaledyren",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "801": {
+    "teamId": "801",
+    "displayName": "Team Name",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "802": {
+    "teamId": "802",
+    "displayName": "repIaIper",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "803": {
+    "teamId": "803",
+    "displayName": "Parra-phernalia",
+    "numSolves": 1,
+    "lastSolveTime": 1756210926305
+  },
+  "804": {
+    "teamId": "804",
+    "displayName": "(🐝🐝) || !(🐝🐝)",
+    "numSolves": 10,
+    "lastSolveTime": 1756120906133
+  },
+  "805": {
+    "teamId": "805",
+    "displayName": "mumbojumbo",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "806": {
+    "teamId": "806",
+    "displayName": "MyTeam",
+    "numSolves": 4,
+    "lastSolveTime": 1756832344609
+  },
+  "807": {
+    "teamId": "807",
+    "displayName": "IDd",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "808": {
+    "teamId": "808",
+    "displayName": "Naw IaT",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "809": {
+    "teamId": "809",
+    "displayName": "teriyaki squirrels",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "810": {
+    "teamId": "810",
+    "displayName": "TRiASSiC",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "811": {
+    "teamId": "811",
+    "displayName": "GUGUGAGA",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "812": {
+    "teamId": "812",
+    "displayName": "Nevermind",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "813": {
+    "teamId": "813",
+    "displayName": "Fish and the Monkeys",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "814": {
+    "teamId": "814",
+    "displayName": "CHUAN",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "815": {
+    "teamId": "815",
+    "displayName": "清醒白日梦",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "816": {
+    "teamId": "816",
+    "displayName": "XD",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "817": {
+    "teamId": "817",
+    "displayName": "Shaymin-forming",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "818": {
+    "teamId": "818",
+    "displayName": "amigos in arson",
+    "numSolves": 1,
+    "lastSolveTime": 1756578431162
+  },
+  "819": {
+    "teamId": "819",
+    "displayName": "Closing Door Rabbit",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "820": {
+    "teamId": "820",
+    "displayName": "Hexakos",
+    "numSolves": 2,
+    "lastSolveTime": 1756134190740
+  },
+  "821": {
+    "teamId": "821",
+    "displayName": "sgpostbox",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "822": {
+    "teamId": "822",
+    "displayName": "ethon",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "823": {
+    "teamId": "823",
+    "displayName": "jinning",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "824": {
+    "teamId": "824",
+    "displayName": "Chosen One",
+    "numSolves": 0
+  },
+  "825": {
+    "teamId": "825",
+    "displayName": "Two non blank characters",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "826": {
+    "teamId": "826",
+    "displayName": "GPH Tourist",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "827": {
+    "teamId": "827",
+    "displayName": "Sleepover",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "828": {
+    "teamId": "828",
+    "displayName": "meowww power",
+    "numSolves": 0
+  },
+  "829": {
+    "teamId": "829",
+    "displayName": "NulL",
+    "numSolves": 3,
+    "lastSolveTime": 1756607371933
+  },
+  "830": {
+    "teamId": "830",
+    "displayName": "dislyxec",
+    "numSolves": 10,
+    "lastSolveTime": 1756528741794
+  },
+  "831": {
+    "teamId": "831",
+    "displayName": "Tralalero Tralala",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "832": {
+    "teamId": "832",
+    "displayName": "puzzlerookie",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "833": {
+    "teamId": "833",
+    "displayName": "Swoosh",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "834": {
+    "teamId": "834",
+    "displayName": "llhhkl",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "835": {
+    "teamId": "835",
+    "displayName": "thehouseofusher",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "836": {
+    "teamId": "836",
+    "displayName": "GG4E",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "837": {
+    "teamId": "837",
+    "displayName": "rhhs stoners",
+    "numSolves": 1,
+    "lastSolveTime": 1756087210757
+  },
+  "838": {
+    "teamId": "838",
+    "displayName": "praisethesun",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "839": {
+    "teamId": "839",
+    "displayName": "flossers 剔牙爱好者🦷🦷🦷",
+    "numSolves": 9,
+    "lastSolveTime": 1756394372763
+  },
+  "840": {
+    "teamId": "840",
+    "displayName": "LovebugKZ",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "841": {
+    "teamId": "841",
+    "displayName": "Truth and Beauty",
+    "numSolves": 4,
+    "lastSolveTime": 1757266210355
+  },
+  "842": {
+    "teamId": "842",
+    "displayName": "DLEPAN",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "843": {
+    "teamId": "843",
+    "displayName": "More stumped than a felled tree",
+    "numSolves": 2,
+    "lastSolveTime": 1756053652846,
+    "isHidden": true
+  },
+  "844": {
+    "teamId": "844",
+    "displayName": "tincantelephone",
+    "numSolves": 4,
+    "lastSolveTime": 1756440092355
+  },
+  "845": {
+    "teamId": "845",
+    "displayName": "danmnes",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "846": {
+    "teamId": "846",
+    "displayName": "Tiralmo",
+    "numSolves": 8,
+    "lastSolveTime": 1756099344493
+  },
+  "847": {
+    "teamId": "847",
+    "displayName": "Leftii",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "848": {
+    "teamId": "848",
+    "displayName": "Unobtanium Worldbuilders",
+    "numSolves": 9,
+    "lastSolveTime": 1757220915959
+  },
+  "849": {
+    "teamId": "849",
+    "displayName": "jeff-solo",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "850": {
+    "teamId": "850",
+    "displayName": "shipsandfootes",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "851": {
+    "teamId": "851",
+    "displayName": "glitch",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "852": {
+    "teamId": "852",
+    "displayName": "TripleM",
+    "numSolves": 1,
+    "lastSolveTime": 1756021356976
+  },
+  "853": {
+    "teamId": "853",
+    "displayName": "42 Wallaby Way",
+    "numSolves": 7,
+    "lastSolveTime": 1756383357680
+  },
+  "854": {
+    "teamId": "854",
+    "displayName": "Alanine",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "855": {
+    "teamId": "855",
+    "displayName": "rage",
+    "numSolves": 14,
+    "lastSolveTime": 1756967567029
+  },
+  "856": {
+    "teamId": "856",
+    "displayName": "not clocking",
+    "numSolves": 12,
+    "lastSolveTime": 1757125957509
+  },
+  "857": {
+    "teamId": "857",
+    "displayName": "Justme",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "858": {
+    "teamId": "858",
+    "displayName": "Clue Crew",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "859": {
+    "teamId": "859",
+    "displayName": "Stumped",
+    "numSolves": 1,
+    "lastSolveTime": 1756047385341
+  },
+  "860": {
+    "teamId": "860",
+    "displayName": "Just Jessen",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "861": {
+    "teamId": "861",
+    "displayName": "Insanity Inc",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "862": {
+    "teamId": "862",
+    "displayName": "Ub",
+    "numSolves": 2,
+    "lastSolveTime": 1756358832781
+  },
+  "863": {
+    "teamId": "863",
+    "displayName": "Bagels",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "864": {
+    "teamId": "864",
+    "displayName": "sarahmontana",
+    "numSolves": 0
+  },
+  "865": {
+    "teamId": "865",
+    "displayName": "我从08年开始就在等gph",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "866": {
+    "teamId": "866",
+    "displayName": "Hungry Rylai",
+    "numSolves": 10,
+    "lastSolveTime": 1756966807443
+  },
+  "867": {
+    "teamId": "867",
+    "displayName": "Fortune and Glory",
+    "numSolves": 20,
+    "lastSolveTime": 1757352384236
+  },
+  "868": {
+    "teamId": "868",
+    "displayName": "Throat Goats",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "869": {
+    "teamId": "869",
+    "displayName": "MishuAnubis",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "870": {
+    "teamId": "870",
+    "displayName": "roger",
+    "numSolves": 2,
+    "lastSolveTime": 1756005771215
+  },
+  "871": {
+    "teamId": "871",
+    "displayName": "Holy Moley",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "872": {
+    "teamId": "872",
+    "displayName": "beanyboi",
+    "numSolves": 6,
+    "lastSolveTime": 1756689254769
+  },
+  "873": {
+    "teamId": "873",
+    "displayName": "potatoes",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "874": {
+    "teamId": "874",
+    "displayName": "Order of Magnitude",
+    "numSolves": 1,
+    "lastSolveTime": 1756237457006
+  },
+  "875": {
+    "teamId": "875",
+    "displayName": "Just One Solve",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "876": {
+    "teamId": "876",
+    "displayName": "rootfuss",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "877": {
+    "teamId": "877",
+    "displayName": "Erin",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "878": {
+    "teamId": "878",
+    "displayName": "dylanamite",
+    "numSolves": 3,
+    "lastSolveTime": 1756067137607
+  },
+  "879": {
+    "teamId": "879",
+    "displayName": "SF Puzzle People",
+    "numSolves": 1,
+    "lastSolveTime": 1756186005052
+  },
+  "880": {
+    "teamId": "880",
+    "displayName": "The Inedibles",
+    "numSolves": 11,
+    "lastSolveTime": 1757099076051
+  },
+  "881": {
+    "teamId": "881",
+    "displayName": "Out of This World",
+    "numSolves": 1,
+    "lastSolveTime": 1756010348151
+  },
+  "882": {
+    "teamId": "882",
+    "displayName": "cat bird",
+    "numSolves": 7,
+    "lastSolveTime": 1757313359583
+  },
+  "883": {
+    "teamId": "883",
+    "displayName": "PuzzleFiends",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "884": {
+    "teamId": "884",
+    "displayName": "illillililli",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "885": {
+    "teamId": "885",
+    "displayName": "JWo_ong",
+    "numSolves": 3,
+    "lastSolveTime": 1756475234073
+  },
+  "886": {
+    "teamId": "886",
+    "displayName": "Dory1022",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "887": {
+    "teamId": "887",
+    "displayName": "Lil Blue's Clues",
+    "numSolves": 7,
+    "lastSolveTime": 1756681006365
+  },
+  "888": {
+    "teamId": "888",
+    "displayName": "Blue Space",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "889": {
+    "teamId": "889",
+    "displayName": "The Rum Swizzlers",
+    "numSolves": 5,
+    "lastSolveTime": 1756148113668
+  },
+  "890": {
+    "teamId": "890",
+    "displayName": "The Clew Crew",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "891": {
+    "teamId": "891",
+    "displayName": "River's Galaxy",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "892": {
+    "teamId": "892",
+    "displayName": "Persistent Puzzlers Plus Plus",
+    "numSolves": 2,
+    "lastSolveTime": 1756775133160
+  },
+  "893": {
+    "teamId": "893",
+    "displayName": "The Original Ship of Theseus",
+    "numSolves": 4,
+    "lastSolveTime": 1756529584424
+  },
+  "894": {
+    "teamId": "894",
+    "displayName": "不为五斗米折腰",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "895": {
+    "teamId": "895",
+    "displayName": "maomao",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "896": {
+    "teamId": "896",
+    "displayName": "Mukuro Ikusaba. The sixteenth student, lying hidden somewhere in this school. The one they call the Ultimate Despair. Watch out for her.",
+    "numSolves": 6,
+    "lastSolveTime": 1756407499599
+  },
+  "897": {
+    "teamId": "897",
+    "displayName": "WhenieBeanie",
+    "numSolves": 5,
+    "lastSolveTime": 1756520552419
+  },
+  "898": {
+    "teamId": "898",
+    "displayName": "5tianshu",
+    "numSolves": 1,
+    "lastSolveTime": 1756051701951
+  },
+  "899": {
+    "teamId": "899",
+    "displayName": "123456",
+    "numSolves": 24,
+    "lastSolveTime": 1757227905766
+  },
+  "900": {
+    "teamId": "900",
+    "displayName": "HELP_ME_OBI",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "901": {
+    "teamId": "901",
+    "displayName": "Hot Diggity Dogs",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "902": {
+    "teamId": "902",
+    "displayName": "YCombinatorGarryTan",
+    "numSolves": 2,
+    "lastSolveTime": 1756516288113
+  },
+  "903": {
+    "teamId": "903",
+    "displayName": "tacog",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "904": {
+    "teamId": "904",
+    "displayName": "DeathBringerAKADebbie",
+    "numSolves": 2,
+    "lastSolveTime": 1756504682677
+  },
+  "905": {
+    "teamId": "905",
+    "displayName": "Wonderland",
+    "numSolves": 3,
+    "lastSolveTime": 1756356610435
+  },
+  "906": {
+    "teamId": "906",
+    "displayName": "wols",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "907": {
+    "teamId": "907",
+    "displayName": "Cogsplay",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "908": {
+    "teamId": "908",
+    "displayName": "Disk Squids",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "909": {
+    "teamId": "909",
+    "displayName": "蒙的都队",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "910": {
+    "teamId": "910",
+    "displayName": "KrabbyPatty",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "911": {
+    "teamId": "911",
+    "displayName": "Left Feet Ahead",
+    "numSolves": 2,
+    "lastSolveTime": 1756010482976,
+    "isHidden": true
+  },
+  "912": {
+    "teamId": "912",
+    "displayName": "Grimsboys",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "913": {
+    "teamId": "913",
+    "displayName": "ogopogo",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "914": {
+    "teamId": "914",
+    "displayName": "galacticdani",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "915": {
+    "teamId": "915",
+    "displayName": "bleh",
+    "numSolves": 10,
+    "lastSolveTime": 1756581318937
+  },
+  "916": {
+    "teamId": "916",
+    "displayName": "Team Traffic",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "917": {
+    "teamId": "917",
+    "displayName": "Hiii!!!",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "918": {
+    "teamId": "918",
+    "displayName": "Dawgs",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "919": {
+    "teamId": "919",
+    "displayName": "Zach",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "920": {
+    "teamId": "920",
+    "displayName": "TacoDave",
+    "numSolves": 16,
+    "lastSolveTime": 1756513921068
+  },
+  "921": {
+    "teamId": "921",
+    "displayName": "robbed_peaches",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "922": {
+    "teamId": "922",
+    "displayName": "bwaaa",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "923": {
+    "teamId": "923",
+    "displayName": "Bazant",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "924": {
+    "teamId": "924",
+    "displayName": "Taskforce Earth",
+    "numSolves": 4,
+    "lastSolveTime": 1756405160619
+  },
+  "925": {
+    "teamId": "925",
+    "displayName": "Username Incoming Soon TM",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "926": {
+    "teamId": "926",
+    "displayName": "Serj",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "927": {
+    "teamId": "927",
+    "displayName": "Hunters",
+    "numSolves": 3,
+    "lastSolveTime": 1756040078822,
+    "isHidden": true
+  },
+  "928": {
+    "teamId": "928",
+    "displayName": "lolcats",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "929": {
+    "teamId": "929",
+    "displayName": "FZ",
+    "numSolves": 6,
+    "lastSolveTime": 1756081625945,
+    "isHidden": true
+  },
+  "930": {
+    "teamId": "930",
+    "displayName": "RabbiTown",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "931": {
+    "teamId": "931",
+    "displayName": "woooking",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "932": {
+    "teamId": "932",
+    "displayName": "Ceiling",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "933": {
+    "teamId": "933",
+    "displayName": "skibiditoiletfan67",
+    "numSolves": 1,
+    "lastSolveTime": 1756691551318
+  },
+  "934": {
+    "teamId": "934",
+    "displayName": "AAA Construction Team",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "935": {
+    "teamId": "935",
+    "displayName": "17 million years until my lunch break",
+    "numSolves": 17,
+    "lastSolveTime": 1756673709064
+  },
+  "936": {
+    "teamId": "936",
+    "displayName": "Aquila",
+    "numSolves": 26,
+    "lastSolveTime": 1757360472565
+  },
+  "937": {
+    "teamId": "937",
+    "displayName": "Just for joy",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "938": {
+    "teamId": "938",
+    "displayName": "lash",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "939": {
+    "teamId": "939",
+    "displayName": "CrispyFishyBurger",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "940": {
+    "teamId": "940",
+    "displayName": "只会集中冰",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "941": {
+    "teamId": "941",
+    "displayName": "TheGamersphere",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "942": {
+    "teamId": "942",
+    "displayName": "Justinos",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "943": {
+    "teamId": "943",
+    "displayName": "Team Swirly",
+    "numSolves": 10,
+    "lastSolveTime": 1756921891881
+  },
+  "944": {
+    "teamId": "944",
+    "displayName": "Stanley and Friends",
+    "numSolves": 4,
+    "lastSolveTime": 1756860823060,
+    "isHidden": true
+  },
+  "945": {
+    "teamId": "945",
+    "displayName": "Max Totoro",
+    "numSolves": 13,
+    "lastSolveTime": 1757190306474
+  },
+  "946": {
+    "teamId": "946",
+    "displayName": "TwoThirty",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "947": {
+    "teamId": "947",
+    "displayName": "The Best Joli",
+    "numSolves": 1,
+    "lastSolveTime": 1756243535146
+  },
+  "948": {
+    "teamId": "948",
+    "displayName": "Iota Dwarf Lion",
+    "numSolves": 6,
+    "lastSolveTime": 1756100076001
+  },
+  "949": {
+    "teamId": "949",
+    "displayName": "The O’Possums",
+    "numSolves": 7,
+    "lastSolveTime": 1756524113877
+  },
+  "950": {
+    "teamId": "950",
+    "displayName": "Ridin' Solo",
+    "numSolves": 10,
+    "lastSolveTime": 1756413850886
+  },
+  "951": {
+    "teamId": "951",
+    "displayName": "Dance Biscuits",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "952": {
+    "teamId": "952",
+    "displayName": "Anonymous",
+    "numSolves": 2,
+    "lastSolveTime": 1756121791279
+  },
+  "953": {
+    "teamId": "953",
+    "displayName": "teamgrovvy",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "954": {
+    "teamId": "954",
+    "displayName": "aabbccdd121",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "955": {
+    "teamId": "955",
+    "displayName": "39clues",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "956": {
+    "teamId": "956",
+    "displayName": "thousandsunny",
+    "numSolves": 11,
+    "lastSolveTime": 1756119998188
+  },
+  "957": {
+    "teamId": "957",
+    "displayName": "Owl Solves",
+    "numSolves": 2,
+    "lastSolveTime": 1756322870737
+  },
+  "958": {
+    "teamId": "958",
+    "displayName": "Viktor",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "959": {
+    "teamId": "959",
+    "displayName": "rmadus",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "960": {
+    "teamId": "960",
+    "displayName": "The Questioners",
+    "numSolves": 1,
+    "lastSolveTime": 1756562165609
+  },
+  "961": {
+    "teamId": "961",
+    "displayName": "虫草九叶",
+    "numSolves": 0
+  },
+  "962": {
+    "teamId": "962",
+    "displayName": "Sassy Solvers",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "963": {
+    "teamId": "963",
+    "displayName": "i wonder how my trimps are doing",
+    "numSolves": 1,
+    "lastSolveTime": 1756187959644
+  },
+  "964": {
+    "teamId": "964",
+    "displayName": "cubits",
+    "numSolves": 1,
+    "lastSolveTime": 1756089396125,
+    "isHidden": true
+  },
+  "965": {
+    "teamId": "965",
+    "displayName": "Donut_3B",
+    "numSolves": 2,
+    "lastSolveTime": 1756349376415
+  },
+  "966": {
+    "teamId": "966",
+    "displayName": "mini",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "967": {
+    "teamId": "967",
+    "displayName": "BGR",
+    "numSolves": 2,
+    "lastSolveTime": 1756654415705
+  },
+  "968": {
+    "teamId": "968",
+    "displayName": "Ruggles Struggles",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "969": {
+    "teamId": "969",
+    "displayName": "33 bio",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "970": {
+    "teamId": "970",
+    "displayName": "Myself",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "971": {
+    "teamId": "971",
+    "displayName": "RandomGiraffe",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "972": {
+    "teamId": "972",
+    "displayName": "LetMeSeeSee",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "973": {
+    "teamId": "973",
+    "displayName": "dont",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "974": {
+    "teamId": "974",
+    "displayName": "2 Stumped 2 Furious",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "975": {
+    "teamId": "975",
+    "displayName": "BMCA",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "976": {
+    "teamId": "976",
+    "displayName": "MIQIUQIU",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "977": {
+    "teamId": "977",
+    "displayName": "joonseo05",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "978": {
+    "teamId": "978",
+    "displayName": "路人戊队",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "979": {
+    "teamId": "979",
+    "displayName": "Just Fun",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "980": {
+    "teamId": "980",
+    "displayName": "jakea256",
+    "numSolves": 13,
+    "lastSolveTime": 1756564729013
+  },
+  "981": {
+    "teamId": "981",
+    "displayName": "getchar(k);",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "982": {
+    "teamId": "982",
+    "displayName": "blah1",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "983": {
+    "teamId": "983",
+    "displayName": "11111",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "984": {
+    "teamId": "984",
+    "displayName": "bob",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "985": {
+    "teamId": "985",
+    "displayName": "Ingredience",
+    "numSolves": 13,
+    "lastSolveTime": 1756993671873
+  },
+  "986": {
+    "teamId": "986",
+    "displayName": "Drake",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "987": {
+    "teamId": "987",
+    "displayName": "donggae",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "988": {
+    "teamId": "988",
+    "displayName": "Rune",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "989": {
+    "teamId": "989",
+    "displayName": "testTeam",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "990": {
+    "teamId": "990",
+    "displayName": "AnomAli",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "991": {
+    "teamId": "991",
+    "displayName": "NotFound",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "992": {
+    "teamId": "992",
+    "displayName": "mmmmmmammhhhhhhhhh",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "993": {
+    "teamId": "993",
+    "displayName": "Cake Party Puzzlers",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "994": {
+    "teamId": "994",
+    "displayName": "Boxmail",
+    "numSolves": 2,
+    "lastSolveTime": 1756248305569
+  },
+  "995": {
+    "teamId": "995",
+    "displayName": "justforfun",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "996": {
+    "teamId": "996",
+    "displayName": "Cow Pig",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "997": {
+    "teamId": "997",
+    "displayName": "Overlooked! 2",
+    "numSolves": 5,
+    "lastSolveTime": 1756922759355
+  },
+  "998": {
+    "teamId": "998",
+    "displayName": "pp",
+    "numSolves": 4,
+    "lastSolveTime": 1756931008858
+  },
+  "999": {
+    "teamId": "999",
+    "displayName": "Jukes",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1000": {
+    "teamId": "1000",
+    "displayName": "M & E",
+    "numSolves": 3,
+    "lastSolveTime": 1756248655595
+  },
+  "1001": {
+    "teamId": "1001",
+    "displayName": "ρ-boat",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1002": {
+    "teamId": "1002",
+    "displayName": "🚮🚮🚮 trash island 🚮🚮🚮",
+    "numSolves": 1,
+    "lastSolveTime": 1757183157548
+  },
+  "1003": {
+    "teamId": "1003",
+    "displayName": "Let Me Solo Her",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1004": {
+    "teamId": "1004",
+    "displayName": "There's a shortage of chairs",
+    "numSolves": 3,
+    "lastSolveTime": 1757304108138
+  },
+  "1005": {
+    "teamId": "1005",
+    "displayName": "Team CSM",
+    "numSolves": 13,
+    "lastSolveTime": 1757346625323
+  },
+  "1006": {
+    "teamId": "1006",
+    "displayName": "W.A.S.T.E.",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1007": {
+    "teamId": "1007",
+    "displayName": "Signal JMMR",
+    "numSolves": 3,
+    "lastSolveTime": 1756866012891
+  },
+  "1008": {
+    "teamId": "1008",
+    "displayName": "General Milz",
+    "numSolves": 5,
+    "lastSolveTime": 1756596963529
+  },
+  "1009": {
+    "teamId": "1009",
+    "displayName": "pepaapu_",
+    "numSolves": 0
+  },
+  "1010": {
+    "teamId": "1010",
+    "displayName": "neonspirits",
+    "numSolves": 1,
+    "lastSolveTime": 1756205005951
+  },
+  "1011": {
+    "teamId": "1011",
+    "displayName": "fash",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1012": {
+    "teamId": "1012",
+    "displayName": "RynStarlight",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1013": {
+    "teamId": "1013",
+    "displayName": "Cash Spray",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1014": {
+    "teamId": "1014",
+    "displayName": "torquing",
+    "numSolves": 3,
+    "lastSolveTime": 1757011945599
+  },
+  "1015": {
+    "teamId": "1015",
+    "displayName": "glitched galaxy",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1016": {
+    "teamId": "1016",
+    "displayName": "Loop A Hole",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1017": {
+    "teamId": "1017",
+    "displayName": "birtrosz",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1018": {
+    "teamId": "1018",
+    "displayName": "Warrior",
+    "numSolves": 1,
+    "lastSolveTime": 1756250888865
+  },
+  "1019": {
+    "teamId": "1019",
+    "displayName": "narri",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1020": {
+    "teamId": "1020",
+    "displayName": "Alex and Nikki",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1021": {
+    "teamId": "1021",
+    "displayName": "blobhi",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1022": {
+    "teamId": "1022",
+    "displayName": "AkashG23",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1023": {
+    "teamId": "1023",
+    "displayName": "Green Griffins",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1024": {
+    "teamId": "1024",
+    "displayName": "Sore Losers",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1025": {
+    "teamId": "1025",
+    "displayName": "nvm the character limit is 200 characters",
+    "numSolves": 17,
+    "lastSolveTime": 1756992258636
+  },
+  "1026": {
+    "teamId": "1026",
+    "displayName": "Stormlords",
+    "numSolves": 0
+  },
+  "1027": {
+    "teamId": "1027",
+    "displayName": "Belltown Beauties",
+    "numSolves": 12,
+    "lastSolveTime": 1757292621897
+  },
+  "1028": {
+    "teamId": "1028",
+    "displayName": "punkband currently",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1029": {
+    "teamId": "1029",
+    "displayName": "pranshu",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1030": {
+    "teamId": "1030",
+    "displayName": "TakeYourGeritolEveryDay",
+    "numSolves": 3,
+    "lastSolveTime": 1756793367779
+  },
+  "1031": {
+    "teamId": "1031",
+    "displayName": "Solo Sam",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1032": {
+    "teamId": "1032",
+    "displayName": "JackSilverHeart",
+    "numSolves": 14,
+    "lastSolveTime": 1756570429207,
+    "isHidden": true
+  },
+  "1033": {
+    "teamId": "1033",
+    "displayName": "aaaaaaa",
+    "numSolves": 0
+  },
+  "1034": {
+    "teamId": "1034",
+    "displayName": "anpo",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1035": {
+    "teamId": "1035",
+    "displayName": "V",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1036": {
+    "teamId": "1036",
+    "displayName": "VNX2025 Team",
+    "numSolves": 0,
+    "lastSolveTime": 0,
+    "isHidden": true
+  },
+  "1037": {
+    "teamId": "1037",
+    "displayName": "Solo Dolo",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1038": {
+    "teamId": "1038",
+    "displayName": "Welcome to the Hunt!",
+    "numSolves": 12,
+    "lastSolveTime": 1756303833694,
+    "isHidden": true
+  },
+  "1039": {
+    "teamId": "1039",
+    "displayName": "Quack",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1040": {
+    "teamId": "1040",
+    "displayName": "Lieony",
+    "numSolves": 0
+  },
+  "1041": {
+    "teamId": "1041",
+    "displayName": "Hyperwyrm",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1042": {
+    "teamId": "1042",
+    "displayName": "El Jhama",
+    "numSolves": 1,
+    "lastSolveTime": 1756312818507,
+    "isHidden": true
+  },
+  "1043": {
+    "teamId": "1043",
+    "displayName": "Late Start",
+    "numSolves": 32,
+    "lastSolveTime": 1757302883985
+  },
+  "1044": {
+    "teamId": "1044",
+    "displayName": "Anibrainiacs",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1045": {
+    "teamId": "1045",
+    "displayName": "Doomsday Asteroid",
+    "numSolves": 0
+  },
+  "1046": {
+    "teamId": "1046",
+    "displayName": "FC",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1047": {
+    "teamId": "1047",
+    "displayName": "Population of Nascent Diploblasts",
+    "numSolves": 2,
+    "lastSolveTime": 1756365263276
+  },
+  "1048": {
+    "teamId": "1048",
+    "displayName": "Spartan Sleuths",
+    "numSolves": 2,
+    "lastSolveTime": 1757005238963
+  },
+  "1049": {
+    "teamId": "1049",
+    "displayName": "Panda Cubs",
+    "numSolves": 0
+  },
+  "1050": {
+    "teamId": "1050",
+    "displayName": "ctww",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1051": {
+    "teamId": "1051",
+    "displayName": "Perplexed Hunters",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1052": {
+    "teamId": "1052",
+    "displayName": "フラグお願い",
+    "numSolves": 5,
+    "lastSolveTime": 1756742125197
+  },
+  "1053": {
+    "teamId": "1053",
+    "displayName": "PerrysburgAPphysics67",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1054": {
+    "teamId": "1054",
+    "displayName": "Blipa",
+    "numSolves": 4,
+    "lastSolveTime": 1756440561081
+  },
+  "1055": {
+    "teamId": "1055",
+    "displayName": "sieun",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1056": {
+    "teamId": "1056",
+    "displayName": "BoOo",
+    "numSolves": 6,
+    "lastSolveTime": 1757221297725
+  },
+  "1057": {
+    "teamId": "1057",
+    "displayName": "ACAB",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1058": {
+    "teamId": "1058",
+    "displayName": "U+0064 LATIN SMALL BACKWARD LETTER B",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1059": {
+    "teamId": "1059",
+    "displayName": "PuzzleON",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1060": {
+    "teamId": "1060",
+    "displayName": "Sudle",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1061": {
+    "teamId": "1061",
+    "displayName": "John",
+    "numSolves": 0
+  },
+  "1062": {
+    "teamId": "1062",
+    "displayName": "Hoon Crew",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1063": {
+    "teamId": "1063",
+    "displayName": "vnxpand",
+    "numSolves": 22,
+    "lastSolveTime": 1756916737082,
+    "isHidden": true
+  },
+  "1064": {
+    "teamId": "1064",
+    "displayName": "ignoring college one puzzle at a time",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1065": {
+    "teamId": "1065",
+    "displayName": "ELEVATOR STUCK. SEND HELP.",
+    "numSolves": 3,
+    "lastSolveTime": 1757209311228
+  },
+  "1066": {
+    "teamId": "1066",
+    "displayName": "mecolmg",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1067": {
+    "teamId": "1067",
+    "displayName": "alexc",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1068": {
+    "teamId": "1068",
+    "displayName": "Prep-Team-ATL",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1069": {
+    "teamId": "1069",
+    "displayName": "puzzlevanias",
+    "numSolves": 1,
+    "lastSolveTime": 1756433912206
+  },
+  "1070": {
+    "teamId": "1070",
+    "displayName": "squirtlesquad",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1071": {
+    "teamId": "1071",
+    "displayName": "All about the Meta",
+    "numSolves": 6,
+    "lastSolveTime": 1757026205212
+  },
+  "1072": {
+    "teamId": "1072",
+    "displayName": "The Agency",
+    "numSolves": 13,
+    "lastSolveTime": 1757045191703
+  },
+  "1073": {
+    "teamId": "1073",
+    "displayName": "WhileTrueRP",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1074": {
+    "teamId": "1074",
+    "displayName": "mightymeow",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1075": {
+    "teamId": "1075",
+    "displayName": "Bob123",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1076": {
+    "teamId": "1076",
+    "displayName": "Team Unseen",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1077": {
+    "teamId": "1077",
+    "displayName": "guanguangke",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1078": {
+    "teamId": "1078",
+    "displayName": "Smoked Ham",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1079": {
+    "teamId": "1079",
+    "displayName": "EXquire",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1080": {
+    "teamId": "1080",
+    "displayName": "team_name",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1081": {
+    "teamId": "1081",
+    "displayName": "Atlas",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1082": {
+    "teamId": "1082",
+    "displayName": "kingcut's team",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1083": {
+    "teamId": "1083",
+    "displayName": "kingcut’s team",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1084": {
+    "teamId": "1084",
+    "displayName": "siusiusiu",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1085": {
+    "teamId": "1085",
+    "displayName": "team chu world champs",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1086": {
+    "teamId": "1086",
+    "displayName": "one cute cat",
+    "numSolves": 6,
+    "lastSolveTime": 1756550530523,
+    "isHidden": true
+  },
+  "1087": {
+    "teamId": "1087",
+    "displayName": "Gorilla",
+    "numSolves": 0
+  },
+  "1088": {
+    "teamId": "1088",
+    "displayName": "SundayBrunchParty",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1089": {
+    "teamId": "1089",
+    "displayName": "Galactose Intolerant",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1090": {
+    "teamId": "1090",
+    "displayName": "chaotic-puzzlers",
+    "numSolves": 1,
+    "lastSolveTime": 1756765764875
+  },
+  "1091": {
+    "teamId": "1091",
+    "displayName": "The Dynamic Rookies",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1092": {
+    "teamId": "1092",
+    "displayName": "Elemesh",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1093": {
+    "teamId": "1093",
+    "displayName": "nuthouse",
+    "numSolves": 4,
+    "lastSolveTime": 1757280026519
+  },
+  "1094": {
+    "teamId": "1094",
+    "displayName": "**GUG**",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1095": {
+    "teamId": "1095",
+    "displayName": "🌠",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1096": {
+    "teamId": "1096",
+    "displayName": "TinyRoboticist",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1097": {
+    "teamId": "1097",
+    "displayName": "SpaceBallers55",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1098": {
+    "teamId": "1098",
+    "displayName": "Team",
+    "numSolves": 1,
+    "lastSolveTime": 1757286592954
+  },
+  "1099": {
+    "teamId": "1099",
+    "displayName": "SweetCity",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1100": {
+    "teamId": "1100",
+    "displayName": "sa",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1101": {
+    "teamId": "1101",
+    "displayName": "(👀)",
+    "numSolves": 2,
+    "lastSolveTime": 1756922822161
+  },
+  "1102": {
+    "teamId": "1102",
+    "displayName": "Mg2",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1103": {
+    "teamId": "1103",
+    "displayName": "penchpals",
+    "numSolves": 4,
+    "lastSolveTime": 1757033060521
+  },
+  "1104": {
+    "teamId": "1104",
+    "displayName": "a_team_name",
+    "numSolves": 2,
+    "lastSolveTime": 1757215808875
+  },
+  "1105": {
+    "teamId": "1105",
+    "displayName": "Floopy's Team",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1106": {
+    "teamId": "1106",
+    "displayName": "Slobberbottoms",
+    "numSolves": 1,
+    "lastSolveTime": 1756944535307
+  },
+  "1107": {
+    "teamId": "1107",
+    "displayName": "I'll Try My Best",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1108": {
+    "teamId": "1108",
+    "displayName": "Lub",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1109": {
+    "teamId": "1109",
+    "displayName": "De Graaffjes",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1110": {
+    "teamId": "1110",
+    "displayName": "JP Studios",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1111": {
+    "teamId": "1111",
+    "displayName": "I am curious",
+    "numSolves": 40,
+    "lastSolveTime": 1756901191093,
+    "isHidden": true
+  },
+  "1112": {
+    "teamId": "1112",
+    "displayName": "Hummus Appreciation Society",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1113": {
+    "teamId": "1113",
+    "displayName": "hugora19",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1114": {
+    "teamId": "1114",
+    "displayName": "I am sorry",
+    "numSolves": 2,
+    "lastSolveTime": 1756897710789,
+    "isHidden": true
+  },
+  "1115": {
+    "teamId": "1115",
+    "displayName": "I am curious again",
+    "numSolves": 4,
+    "lastSolveTime": 1756901837748,
+    "isHidden": true
+  },
+  "1116": {
+    "teamId": "1116",
+    "displayName": "galactic puzzle solvers",
+    "numSolves": 0,
+    "lastSolveTime": 0,
+    "isHidden": true
+  },
+  "1117": {
+    "teamId": "1117",
+    "displayName": "dootdoot1",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1118": {
+    "teamId": "1118",
+    "displayName": "IMP!",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1119": {
+    "teamId": "1119",
+    "displayName": "let me solo her",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1120": {
+    "teamId": "1120",
+    "displayName": "Radioinactive",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1121": {
+    "teamId": "1121",
+    "displayName": "The Den",
+    "numSolves": 1,
+    "lastSolveTime": 1757074742223
+  },
+  "1122": {
+    "teamId": "1122",
+    "displayName": "Orchard Sound",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1123": {
+    "teamId": "1123",
+    "displayName": "panguins!",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1124": {
+    "teamId": "1124",
+    "displayName": "FootSoldierz",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1125": {
+    "teamId": "1125",
+    "displayName": "KartRider",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1126": {
+    "teamId": "1126",
+    "displayName": "jeuje",
+    "numSolves": 0
+  },
+  "1127": {
+    "teamId": "1127",
+    "displayName": "Renmin University of Liyue",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1128": {
+    "teamId": "1128",
+    "displayName": "tertia",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1129": {
+    "teamId": "1129",
+    "displayName": "Riddle Me This",
+    "numSolves": 2,
+    "lastSolveTime": 1757266174514
+  },
+  "1130": {
+    "teamId": "1130",
+    "displayName": "orz TropicoMango",
+    "numSolves": 2,
+    "lastSolveTime": 1757311929317
+  },
+  "1131": {
+    "teamId": "1131",
+    "displayName": "Probopass Missing Question Mark",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1132": {
+    "teamId": "1132",
+    "displayName": "The Beeborbs",
+    "numSolves": 0
+  },
+  "1133": {
+    "teamId": "1133",
+    "displayName": "NaN",
+    "numSolves": 1,
+    "lastSolveTime": 1757267138561
+  },
+  "1134": {
+    "teamId": "1134",
+    "displayName": "T3st",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1135": {
+    "teamId": "1135",
+    "displayName": "OWO Office",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1136": {
+    "teamId": "1136",
+    "displayName": "不会玩gph",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1137": {
+    "teamId": "1137",
+    "displayName": "Me Myself and I",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1138": {
+    "teamId": "1138",
+    "displayName": "cvb",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1139": {
+    "teamId": "1139",
+    "displayName": "tylers only",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1140": {
+    "teamId": "1140",
+    "displayName": "Cyndaquils",
+    "numSolves": 0
+  },
+  "1141": {
+    "teamId": "1141",
+    "displayName": "sinkrad",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1142": {
+    "teamId": "1142",
+    "displayName": "toggafa",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1143": {
+    "teamId": "1143",
+    "displayName": "Castle of Glass",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1144": {
+    "teamId": "1144",
+    "displayName": "Puzzle Pirates",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1145": {
+    "teamId": "1145",
+    "displayName": "MONOMANA",
+    "numSolves": 0
+  },
+  "1146": {
+    "teamId": "1146",
+    "displayName": "visit",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1147": {
+    "teamId": "1147",
+    "displayName": "Theory Folk",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1148": {
+    "teamId": "1148",
+    "displayName": "Abhi",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1149": {
+    "teamId": "1149",
+    "displayName": "zrattek",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1150": {
+    "teamId": "1150",
+    "displayName": "kankanti",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1151": {
+    "teamId": "1151",
+    "displayName": "Jinzpuzz",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1152": {
+    "teamId": "1152",
+    "displayName": "Yummy Seafood",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1153": {
+    "teamId": "1153",
+    "displayName": "namzamans",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1154": {
+    "teamId": "1154",
+    "displayName": "Viego",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1155": {
+    "teamId": "1155",
+    "displayName": "TeamTardis",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1156": {
+    "teamId": "1156",
+    "displayName": "bbq",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1157": {
+    "teamId": "1157",
+    "displayName": "Jep",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1158": {
+    "teamId": "1158",
+    "displayName": "heron!",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1159": {
+    "teamId": "1159",
+    "displayName": "FairPlay",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1160": {
+    "teamId": "1160",
+    "displayName": "Tom Sawyer",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1161": {
+    "teamId": "1161",
+    "displayName": "TheotokosEnjoyer",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1162": {
+    "teamId": "1162",
+    "displayName": "jorkers",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1163": {
+    "teamId": "1163",
+    "displayName": "Ted Dona",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1164": {
+    "teamId": "1164",
+    "displayName": "氢气球额售楼部",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1165": {
+    "teamId": "1165",
+    "displayName": "rteam",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1166": {
+    "teamId": "1166",
+    "displayName": "SwUniverse",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1167": {
+    "teamId": "1167",
+    "displayName": "baboon",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1168": {
+    "teamId": "1168",
+    "displayName": "Baboon",
+    "numSolves": 0
+  },
+  "1169": {
+    "teamId": "1169",
+    "displayName": "AdamAndMarton",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1170": {
+    "teamId": "1170",
+    "displayName": "qwerasdf",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1171": {
+    "teamId": "1171",
+    "displayName": "JustCheckingOutTheHunt",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1172": {
+    "teamId": "1172",
+    "displayName": "我是取名废物",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1173": {
+    "teamId": "1173",
+    "displayName": "DewDew07",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1174": {
+    "teamId": "1174",
+    "displayName": "Sick Day Today",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1175": {
+    "teamId": "1175",
+    "displayName": "TinyBug",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1176": {
+    "teamId": "1176",
+    "displayName": "catdespair",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1177": {
+    "teamId": "1177",
+    "displayName": "virtual_participation_with_answer",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1178": {
+    "teamId": "1178",
+    "displayName": "Swordfish",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1179": {
+    "teamId": "1179",
+    "displayName": "geumma",
+    "numSolves": 0
+  },
+  "1180": {
+    "teamId": "1180",
+    "displayName": "ALBH",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1181": {
+    "teamId": "1181",
+    "displayName": "Coolest Guys",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1182": {
+    "teamId": "1182",
+    "displayName": "isamook",
+    "numSolves": 0
+  },
+  "1183": {
+    "teamId": "1183",
+    "displayName": "danielwang",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1184": {
+    "teamId": "1184",
+    "displayName": "J Unit",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1185": {
+    "teamId": "1185",
+    "displayName": "asasasas",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1186": {
+    "teamId": "1186",
+    "displayName": "aManisNoone",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1187": {
+    "teamId": "1187",
+    "displayName": "La Cie Keyhole",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1188": {
+    "teamId": "1188",
+    "displayName": "Best Hunt Team",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1189": {
+    "teamId": "1189",
+    "displayName": "team",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1190": {
+    "teamId": "1190",
+    "displayName": "testsetsests",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1191": {
+    "teamId": "1191",
+    "displayName": "WhatAreWeDoing",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1192": {
+    "teamId": "1192",
+    "displayName": "Solo Sean",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1193": {
+    "teamId": "1193",
+    "displayName": "Abhina",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1194": {
+    "teamId": "1194",
+    "displayName": "Sukilin",
+    "numSolves": 0
+  },
+  "1195": {
+    "teamId": "1195",
+    "displayName": "takealook",
+    "numSolves": 0
+  },
+  "1196": {
+    "teamId": "1196",
+    "displayName": "Tripping Troglodytes",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1197": {
+    "teamId": "1197",
+    "displayName": "CutieRainbow's home",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1198": {
+    "teamId": "1198",
+    "displayName": "satellites",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1199": {
+    "teamId": "1199",
+    "displayName": "Untitled1",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1200": {
+    "teamId": "1200",
+    "displayName": "AnvilHam",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1201": {
+    "teamId": "1201",
+    "displayName": "🐢",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1202": {
+    "teamId": "1202",
+    "displayName": "Ɲo way theres font support for this",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  },
+  "1203": {
+    "teamId": "1203",
+    "displayName": "Duffy",
+    "numSolves": 0
+  },
+  "1205": {
+    "teamId": "1205",
+    "displayName": "thewanderingeditor",
+    "numSolves": 0,
+    "lastSolveTime": 0
+  }
+}

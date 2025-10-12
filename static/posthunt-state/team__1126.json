@@ -1,0 +1,118 @@
+{
+  "displayName": "jeuje",
+  "rounds": {},
+  "puzzles": {
+    "intro": {
+      "type": "story",
+      "puzName": "intro",
+      "slug": "hey_you_youre_finally_awake",
+      "displayName": "Hey, You. You're Finally Awake.",
+      "allowRotation": true,
+      "roundId": "intro",
+      "isNew": true,
+      "unlockTime": 1757127638804,
+      "cutsceneImages": [
+        "blank",
+        "intro-black",
+        "intro-opening-eyes",
+        "pan-1",
+        "pan-embarrassed",
+        "pan-2",
+        "pan-thinking"
+      ],
+      "noCannedHints": true
+    },
+    "site-intro": {
+      "type": "story",
+      "puzName": "site-intro",
+      "slug": "no_one_in_sight",
+      "displayName": "No One In Sight",
+      "allowRotation": true,
+      "roundId": "site",
+      "isNew": true,
+      "unlockTime": 1757127664427,
+      "cutsceneImages": [
+        "pan-1",
+        "pan-thinking",
+        "pan-2"
+      ],
+      "noCannedHints": true
+    },
+    "crosswords-intro": {
+      "type": "story",
+      "puzName": "crosswords-intro",
+      "slug": "an_exchange_of_cross_words",
+      "displayName": "An Exchange of Cross Words",
+      "allowRotation": true,
+      "roundId": "crosswords",
+      "isNew": true,
+      "unlockTime": 1757127664428,
+      "cutsceneImages": [
+        "laura",
+        "sia",
+        "crosswords-island"
+      ],
+      "noCannedHints": true
+    },
+    "crater-intro": {
+      "type": "story",
+      "puzName": "crater-intro",
+      "slug": "leaving_a_big_impression",
+      "displayName": "Leaving a Big Impression",
+      "allowRotation": true,
+      "roundId": "crater",
+      "isNew": true,
+      "unlockTime": 1757127664429,
+      "cutsceneImages": [
+        "pan-distressed",
+        "crater",
+        "pan-thinking",
+        "pan-embarrassed",
+        "pan-1"
+      ],
+      "noCannedHints": true
+    },
+    "atoll-intro": {
+      "type": "story",
+      "puzName": "atoll-intro",
+      "slug": "the_sound_of_music",
+      "displayName": "The Sound of Music",
+      "allowRotation": true,
+      "roundId": "atoll",
+      "isNew": true,
+      "unlockTime": 1757127664430,
+      "cutsceneImages": [
+        "pan-distressed",
+        "laura",
+        "sia",
+        "concert-cats"
+      ],
+      "noCannedHints": true
+    },
+    "desert-intro": {
+      "type": "story",
+      "puzName": "desert-intro",
+      "slug": "many_many_islands",
+      "displayName": "Many Many Islands",
+      "allowRotation": true,
+      "roundId": "desert",
+      "isNew": true,
+      "unlockTime": 1757127664431,
+      "cutsceneImages": [
+        "pan-1",
+        "pan-2",
+        "desert-island",
+        "pan-thinking"
+      ],
+      "noCannedHints": true
+    }
+  },
+  "huntStartTime": 1755901680000,
+  "huntEndTime": 1757370480000,
+  "finishedData": {
+    "numSolveCountPuzzles": 50,
+    "numCustomPuzzles": 0
+  },
+  "cutsceneChoices": {},
+  "lockedSolutions": {}
+}
