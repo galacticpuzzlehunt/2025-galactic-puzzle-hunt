@@ -266,7 +266,7 @@ function animate() {
 document.body.addEventListener("scroll", () => requestAnimationFrame(animate), {passive: true});
 window.addEventListener("resize", () => requestAnimationFrame(animate), {passive: true});
 window.addEventListener("DOMContentLoaded", () => {
-    if (localStorage.skipIntro)
+    //if (localStorage.skipIntro)
         document.body.scrollLeft = wrapper.scrollWidth;
     document.querySelector("#arrow").addEventListener("click", () => {
         let startScroll, startT;
